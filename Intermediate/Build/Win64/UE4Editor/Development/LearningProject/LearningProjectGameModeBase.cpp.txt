@@ -1,0 +1,7 @@
+M:\Projects\LearningProject_Cpy\Intermediate\Build\Win64\UE4Editor\Development\LearningProject\Definitions.LearningProject.h
+M:\Projects\LearningProject_Cpy\Source\LearningProject\LearningProjectGameModeBase.h
+M:\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+M:\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+M:\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+M:\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+M:\Projects\LearningProject_Cpy\Intermediate\Build\Win64\UE4Editor\Inc\LearningProject\LearningProjectGameModeBase.generated.h

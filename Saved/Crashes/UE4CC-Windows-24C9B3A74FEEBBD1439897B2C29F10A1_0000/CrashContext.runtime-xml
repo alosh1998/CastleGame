@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FGenericCrashContext>
+	<RuntimeProperties>
+		<CrashVersion>3</CrashVersion>
+		<ExecutionGuid>A85A61634B7C2598855DCEB37FDB8B4A</ExecutionGuid>
+		<CrashGUID>UE4CC-Windows-24C9B3A74FEEBBD1439897B2C29F10A1_0000</CrashGUID>
+		<ProcessId>16680</ProcessId>
+		<IsInternalBuild>false</IsInternalBuild>
+		<IsPerforceBuild>false</IsPerforceBuild>
+		<IsSourceDistribution>false</IsSourceDistribution>
+		<IsEnsure>true</IsEnsure>
+		<IsAssert>false</IsAssert>
+		<CrashType>Ensure</CrashType>
+		<SecondsSinceStart>0</SecondsSinceStart>
+		<GameName>UE4-LearningProject</GameName>
+		<ExecutableName>UE4Editor</ExecutableName>
+		<BuildConfiguration>Development</BuildConfiguration>
+		<GameSessionID />
+		<Symbols>**UE4*Release-4.22-CL-7053642-Win64-Development</Symbols>
+		<PlatformName>Windows</PlatformName>
+		<PlatformNameIni>Windows</PlatformNameIni>
+		<EngineMode>Editor</EngineMode>
+		<EngineModeEx>Unset</EngineModeEx>
+		<DeploymentName />
+		<EngineVersion>4.22.3-7053642+++UE4+Release-4.22</EngineVersion>
+		<CommandLine />
+		<LanguageLCID>2057</LanguageLCID>
+		<AppDefaultLocale>en-AU</AppDefaultLocale>
+		<BuildVersion>++UE4+Release-4.22-CL-7053642</BuildVersion>
+		<IsUE4Release>true</IsUE4Release>
+		<UserName>alous</UserName>
+		<BaseDir>C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/</BaseDir>
+		<RootDir>C:/Program Files/Epic Games/UE_4.22/</RootDir>
+		<MachineId>151A03BA4FB681F233A6829A202D89E9</MachineId>
+		<LoginId>151a03ba4fb681f233a6829a202d89e9</LoginId>
+		<EpicAccountId>d7c5a87122344021ad1fb18ba70671c8</EpicAccountId>
+		<NumMinidumpFramesToIgnore>0</NumMinidumpFramesToIgnore>
+		<CallStack />
+		<PCallStack>UE4Editor-Engine 0x00000000161d0000 + 17bcd89 UE4Editor-Engine 0x00000000161d0000 + 5f4fa1 UE4Editor-LearningProject-5489 0x0000000009530000 + 7835 UE4Editor-CoreUObject 0x0000000042550000 + 10610f UE4Editor-CoreUObject 0x0000000042550000 + 341056 UE4Editor-CoreUObject 0x0000000042550000 + 32edef UE4Editor-CoreUObject 0x0000000042550000 + 10a727 UE4Editor-Core 0x0000000042b30000 + f4a2b UE4Editor-Core 0x0000000042b30000 + 2c5cb5 UE4Editor-Projects 0x0000000060630000 + 18d67 UE4Editor-Projects 0x0000000060630000 + 18ff7 UE4Editor 0x00000000c1a30000 + 17eb1 UE4Editor 0x00000000c1a30000 + 1d671 UE4Editor 0x00000000c1a30000 + 15377 UE4Editor 0x00000000c1a30000 + 155ca UE4Editor 0x00000000c1a30000 + 2316c UE4Editor 0x00000000c1a30000 + 25b8e KERNEL32 0x000000007faa0000 + 17bd4 ntdll 0x00000000807e0000 + 6ced1</PCallStack>
+		<SourceContext />
+		<UserDescription />
+		<UserActivityHint />
+		<ErrorMessage>Ensure condition failed: AttachmentRules.LocationRule == EAttachmentRule::KeepRelative &amp;&amp; AttachmentRules.RotationRule == EAttachmentRule::KeepRelative &amp;&amp; AttachmentRules.ScaleRule == EAttachmentRule::KeepRelative [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\Components\SceneComponent.cpp] [Line: 1786] AttachToComponent when called from a constructor is only setting up attachment and will always be treated as KeepRelative. Consider calling SetupAttachment directly instead. Stack: 0x00007ffa1798cd89 UE4Editor-Engine.dll!UnknownFunction [] 0x00007ffa167c4fa1 UE4Editor-Engine.dll!UnknownFunction [] 0x00007ffa09537835 UE4Editor-LearningProject-5489.dll!AEnemy::AEnemy() [D:\Projects\UE4-Projects\LearningProject\Source\LearningProject\Enemy.cpp:39] 0x00007ffa4265610f UE4Editor-CoreUObject.dll!UnknownFunction [] 0x00007ffa42891056 UE4Editor-CoreUObject.dll!UnknownFunction [] 0x00007ffa4287edef UE4Editor-CoreUObject.dll!UnknownFunction [] 0x00007ffa4265a727 UE4Editor-CoreUObject.dll!UnknownFunction [] 0x00007ffa42c24a2b UE4Editor-Core.dll!UnknownFunction [] 0x00007ffa42df5cb5 UE4Editor-Core.dll!UnknownFunction [] 0x00007ffa60648d67 UE4Editor-Projects.dll!UnknownFunction [] 0x00007ffa60648ff7 UE4Editor-Projects.dll!UnknownFunction [] 0x00007ff7c1a47eb1 UE4Editor.exe!UnknownFunction [] 0x00007ff7c1a4d671 UE4Editor.exe!UnknownFunction [] 0x00007ff7c1a45377 UE4Editor.exe!UnknownFunction [] 0x00007ff7c1a455ca UE4Editor.exe!UnknownFunction [] 0x00007ff7c1a5316c UE4Editor.exe!UnknownFunction [] 0x00007ff7c1a55b8e UE4Editor.exe!UnknownFunction [] 0x00007ffa7fab7bd4 KERNEL32.DLL!UnknownFunction [] 0x00007ffa8084ced1 ntdll.dll!UnknownFunction []</ErrorMessage>
+		<CrashDumpMode>0</CrashDumpMode>
+		<CrashReporterMessage />
+		<Misc.NumberOfCores>2</Misc.NumberOfCores>
+		<Misc.NumberOfCoresIncludingHyperthreads>4</Misc.NumberOfCoresIncludingHyperthreads>
+		<Misc.Is64bitOperatingSystem>1</Misc.Is64bitOperatingSystem>
+		<Misc.CPUVendor>GenuineIntel</Misc.CPUVendor>
+		<Misc.CPUBrand>Intel(R) Core(TM) i7-6600U CPU @ 2.60GHz</Misc.CPUBrand>
+		<Misc.PrimaryGPUBrand>Intel(R) HD Graphics 520</Misc.PrimaryGPUBrand>
+		<Misc.OSVersionMajor>Windows 10 (Release 1903)</Misc.OSVersionMajor>
+		<Misc.OSVersionMinor />
+		<GameStateName />
+		<MemoryStats.TotalPhysical>8511578112</MemoryStats.TotalPhysical>
+		<MemoryStats.TotalVirtual>140737488224256</MemoryStats.TotalVirtual>
+		<MemoryStats.PageSize>4096</MemoryStats.PageSize>
+		<MemoryStats.TotalPhysicalGB>8</MemoryStats.TotalPhysicalGB>
+		<MemoryStats.AvailablePhysical>3239665664</MemoryStats.AvailablePhysical>
+		<MemoryStats.AvailableVirtual>140731829186560</MemoryStats.AvailableVirtual>
+		<MemoryStats.UsedPhysical>622764032</MemoryStats.UsedPhysical>
+		<MemoryStats.PeakUsedPhysical>623775744</MemoryStats.PeakUsedPhysical>
+		<MemoryStats.UsedVirtual>644149248</MemoryStats.UsedVirtual>
+		<MemoryStats.PeakUsedVirtual>645279744</MemoryStats.PeakUsedVirtual>
+		<MemoryStats.bIsOOM>0</MemoryStats.bIsOOM>
+		<MemoryStats.OOMAllocationSize>0</MemoryStats.OOMAllocationSize>
+		<MemoryStats.OOMAllocationAlignment>0</MemoryStats.OOMAllocationAlignment>
+		<TimeOfCrash>637197862157700000</TimeOfCrash>
+		<bAllowToBeContacted>1</bAllowToBeContacted>
+		<PlatformFullName>Win64 [Windows 10 (Release 1903)  64b]</PlatformFullName>
+		<CrashReportClientVersion>1.0</CrashReportClientVersion>
+	</RuntimeProperties>
+	<PlatformProperties>
+		<PlatformIsRunningWindows>1</PlatformIsRunningWindows>
+		<PlatformCallbackResult>0</PlatformCallbackResult>
+	</PlatformProperties>
+	<EngineData>
+		<RHI.RHIName>D3D11</RHI.RHIName>
+		<RHI.AdapterName>NVIDIA GeForce GTX 965M</RHI.AdapterName>
+		<RHI.UserDriverVersion>Unknown</RHI.UserDriverVersion>
+		<RHI.InternalDriverVersion>Unknown</RHI.InternalDriverVersion>
+		<RHI.DriverDate>Unknown</RHI.DriverDate>
+		<RHI.FeatureLevel>SM5</RHI.FeatureLevel>
+	</EngineData>
+</FGenericCrashContext>

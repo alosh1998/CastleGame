@@ -1,0 +1,3 @@
+D:\Projects\UE4-Projects\LearningProject\Source\LearningProject\LearningProject.Build.cs
+D:\Projects\UE4-Projects\LearningProject\Source\LearningProject.Target.cs
+D:\Projects\UE4-Projects\LearningProject\Source\LearningProjectEditor.Target.cs

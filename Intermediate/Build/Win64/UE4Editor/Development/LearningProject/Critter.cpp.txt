@@ -1,0 +1,5 @@
+M:\Projects\LearningProject_Cpy\Intermediate\Build\Win64\UE4Editor\Development\LearningProject\Definitions.LearningProject.h
+M:\Projects\LearningProject_Cpy\Source\LearningProject\Critter.h
+M:\Projects\LearningProject_Cpy\Intermediate\Build\Win64\UE4Editor\Inc\LearningProject\Critter.generated.h
+M:\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Camera/CameraComponent.h
+M:\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraComponent.generated.h

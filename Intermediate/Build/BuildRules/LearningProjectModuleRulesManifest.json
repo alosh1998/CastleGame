@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"M:\\Projects\\LearningProject_Cpy\\Source\\LearningProject\\LearningProject.Build.cs",
+		"M:\\Projects\\LearningProject_Cpy\\Source\\LearningProject.Target.cs",
+		"M:\\Projects\\LearningProject_Cpy\\Source\\LearningProjectEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.4"
+}

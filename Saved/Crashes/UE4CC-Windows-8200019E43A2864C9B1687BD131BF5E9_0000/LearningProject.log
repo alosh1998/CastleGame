@@ -1,0 +1,1115 @@
+﻿Log file open, 02/27/20 16:56:11
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine without a game
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: Loading recent project file: D:/Projects/UE4-Projects/LearningProject/LearningProject.uproject
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.960531
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +10:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-6600U CPU @ 2.60GHz, GPU: Intel(R) HD Graphics 520
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Projects/UE4-Projects/LearningProject/Saved/Config/Windows/Engine.ini]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Projects/UE4-Projects/LearningProject/Saved/Config/Windows/Engine.ini]
+[2020.02.27-05.56.12:742][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Projects/UE4-Projects/LearningProject/Saved/Config/Windows/Engine.ini]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Projects/UE4-Projects/LearningProject/Saved/Config/Windows/Engine.ini]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Projects/UE4-Projects/LearningProject/Saved/Config/Windows/Engine.ini]
+[2020.02.27-05.56.12:742][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Projects/UE4-Projects/LearningProject/Saved/Config/Windows/Engine.ini]
+[2020.02.27-05.56.12:742][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Projects/UE4-Projects/LearningProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Projects/UE4-Projects/LearningProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Projects/UE4-Projects/LearningProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Projects/UE4-Projects/LearningProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Projects/UE4-Projects/LearningProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Projects/UE4-Projects/LearningProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.27-05.56.12:742][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.27-05.56.12:757][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.27-05.56.12:757][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.27-05.56.12:757][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.27-05.56.12:757][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.27-05.56.12:757][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.27-05.56.12:757][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Projects/UE4-Projects/LearningProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.27-05.56.12:757][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.27-05.56.12:757][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.27-05.56.12:757][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.27-05.56.12:757][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.02.27-05.56.12:788][  0]LogHAL: Display: Platform has ~ 8 GB [8511578112 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.02.27-05.56.12:788][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.02.27-05.56.12:788][  0]LogInit: Going up to parent DeviceProfile []
+[2020.02.27-05.56.12:788][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [D:/Projects/UE4-Projects/LearningProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.27-05.56.12:788][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:2]]
+[2020.02.27-05.56.12:788][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.4]]
+[2020.02.27-05.56.12:788][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [D:/Projects/UE4-Projects/LearningProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.27-05.56.12:788][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:0]]
+[2020.02.27-05.56.12:788][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [D:/Projects/UE4-Projects/LearningProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.27-05.56.12:788][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:0]]
+[2020.02.27-05.56.12:788][  0]LogConfig: Setting CVar [[r.ShadowQuality:0]]
+[2020.02.27-05.56.12:788][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2020.02.27-05.56.12:788][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:512]]
+[2020.02.27-05.56.12:788][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:512]]
+[2020.02.27-05.56.12:788][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2020.02.27-05.56.12:788][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.6]]
+[2020.02.27-05.56.12:788][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2020.02.27-05.56.12:788][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2020.02.27-05.56.12:788][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2020.02.27-05.56.12:788][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2020.02.27-05.56.12:788][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2020.02.27-05.56.12:788][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:0]]
+[2020.02.27-05.56.12:788][  0]LogConfig: Setting CVar [[r.CapsuleShadows:0]]
+[2020.02.27-05.56.12:788][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [D:/Projects/UE4-Projects/LearningProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.27-05.56.12:788][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.02.27-05.56.12:788][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2020.02.27-05.56.12:788][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2020.02.27-05.56.12:788][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.02.27-05.56.12:788][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2020.02.27-05.56.12:788][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.02.27-05.56.12:788][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:300]]
+[2020.02.27-05.56.12:788][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.02.27-05.56.12:788][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.02.27-05.56.12:788][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2020.02.27-05.56.12:788][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2020.02.27-05.56.12:788][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.02.27-05.56.12:788][  0]LogConfig: Setting CVar [[r.Upscale.Quality:1]]
+[2020.02.27-05.56.12:788][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2020.02.27-05.56.12:788][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2020.02.27-05.56.12:788][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.6]]
+[2020.02.27-05.56.12:788][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:0]]
+[2020.02.27-05.56.12:788][  0]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [D:/Projects/UE4-Projects/LearningProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.27-05.56.12:788][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:16]]
+[2020.02.27-05.56.12:788][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:1]]
+[2020.02.27-05.56.12:788][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:1]]
+[2020.02.27-05.56.12:788][  0]LogConfig: Setting CVar [[r.Streaming.Boost:0.3]]
+[2020.02.27-05.56.12:788][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:0]]
+[2020.02.27-05.56.12:788][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2020.02.27-05.56.12:788][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:400]]
+[2020.02.27-05.56.12:788][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.27-05.56.12:788][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [D:/Projects/UE4-Projects/LearningProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.27-05.56.12:788][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:24]]
+[2020.02.27-05.56.12:788][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2020.02.27-05.56.12:788][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.02.27-05.56.12:788][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2020.02.27-05.56.12:788][  0]LogConfig: Setting CVar [[r.DetailMode:0]]
+[2020.02.27-05.56.12:788][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.02.27-05.56.12:788][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:0 ; Low quality]]
+[2020.02.27-05.56.12:788][  0]LogConfig: Setting CVar [[r.SSS.Scale:0]]
+[2020.02.27-05.56.12:788][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2020.02.27-05.56.12:788][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2020.02.27-05.56.12:788][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.27-05.56.12:788][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.125]]
+[2020.02.27-05.56.12:788][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2020.02.27-05.56.12:788][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [D:/Projects/UE4-Projects/LearningProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.27-05.56.12:788][  0]LogConfig: Setting CVar [[foliage.DensityScale:0]]
+[2020.02.27-05.56.12:788][  0]LogConfig: Setting CVar [[grass.DensityScale:0]]
+[2020.02.27-05.56.12:788][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.02.27-05.56.12:804][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.02.27-05.56.12:804][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.02.27-05.56.12:804][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Projects/UE4-Projects/LearningProject/Saved/Config/Windows/Engine.ini]
+[2020.02.27-05.56.12:812][  0]LogInit: Computer: DESKTOP-QFQBS83
+[2020.02.27-05.56.12:812][  0]LogInit: User: alous
+[2020.02.27-05.56.12:812][  0]LogInit: CPU Page size=4096, Cores=2
+[2020.02.27-05.56.12:812][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.02.27-05.56.12:812][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.02.27-05.56.12:812][  0]LogMemory: Platform Memory Stats for Windows
+[2020.02.27-05.56.12:812][  0]LogMemory: Process Physical Memory: 98.77 MB used, 98.77 MB peak
+[2020.02.27-05.56.12:812][  0]LogMemory: Process Virtual Memory: 94.00 MB used, 94.00 MB peak
+[2020.02.27-05.56.12:812][  0]LogMemory: Physical Memory: 3773.63 MB used,  4343.64 MB free, 8117.27 MB total
+[2020.02.27-05.56.12:812][  0]LogMemory: Virtual Memory: 4631.40 MB used,  134213096.00 MB free, 134217728.00 MB total
+[2020.02.27-05.56.13:140][  0]LogInit: Using OS detected language (en-GB).
+[2020.02.27-05.56.13:140][  0]LogInit: Using OS detected locale (en-AU).
+[2020.02.27-05.56.13:145][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.02.27-05.56.13:691][  0]LogInit: Setting process to per monitor DPI aware
+[2020.02.27-05.56.13:840][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.02.27-05.56.13:840][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.02.27-05.56.17:498][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.27-05.56.17:498][  0]LogD3D11RHI: D3D11 adapters:
+[2020.02.27-05.56.18:457][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 965M' (Feature Level 11_0)
+[2020.02.27-05.56.18:457][  0]LogD3D11RHI:       2010/0/4058 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.02.27-05.56.18:486][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 520' (Feature Level 11_0)
+[2020.02.27-05.56.18:487][  0]LogD3D11RHI:       128/0/4058 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.02.27-05.56.18:489][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.02.27-05.56.18:489][  0]LogD3D11RHI:       0/0/4058 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.02.27-05.56.18:489][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.02.27-05.56.18:545][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.02.27-05.56.18:545][  0]LogD3D11RHI:     GPU DeviceId: 0x1427 (for the marketing name, search the web for "GPU Device Id")
+[2020.02.27-05.56.18:545][  0]LogWindows: EnumDisplayDevices:
+[2020.02.27-05.56.18:545][  0]LogWindows:    0. 'Intel(R) HD Graphics 520' (P:1 D:1)
+[2020.02.27-05.56.18:546][  0]LogWindows:    1. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2020.02.27-05.56.18:546][  0]LogWindows:    2. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2020.02.27-05.56.18:546][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.02.27-05.56.18:546][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 965M
+[2020.02.27-05.56.18:546][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.02.27-05.56.18:546][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.02.27-05.56.18:546][  0]LogRHI: Texture pool is 1407 MB (70% of 2010 MB)
+[2020.02.27-05.56.18:597][  0]LogD3D11RHI: Async texture creation enabled
+[2020.02.27-05.56.18:609][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.02.27-05.56.18:610][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.02.27-05.56.18:610][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.02.27-05.56.18:627][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2020.02.27-05.56.19:685][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.02.27-05.56.19:709][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.02.27-05.56.19:731][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.02.27-05.56.19:757][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.02.27-05.56.19:788][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.02.27-05.56.19:808][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.02.27-05.56.19:829][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.02.27-05.56.19:846][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.02.27-05.56.19:859][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.02.27-05.56.19:977][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.02.27-05.56.19:977][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.02.27-05.56.19:977][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.02.27-05.56.19:977][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.02.27-05.56.19:977][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.02.27-05.56.19:977][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.02.27-05.56.19:977][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.02.27-05.56.19:977][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.02.27-05.56.19:977][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.02.27-05.56.19:977][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.02.27-05.56.19:977][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.02.27-05.56.19:977][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.02.27-05.56.19:977][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.02.27-05.56.19:977][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.02.27-05.56.19:977][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.02.27-05.56.19:977][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.02.27-05.56.19:977][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.02.27-05.56.19:977][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.02.27-05.56.19:982][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.02.27-05.56.20:053][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.02.27-05.56.20:053][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.02.27-05.56.20:084][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.02.27-05.56.20:084][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.02.27-05.56.20:103][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.02.27-05.56.20:119][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.02.27-05.56.20:134][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.02.27-05.56.20:164][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.02.27-05.56.20:233][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.02.27-05.56.20:233][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.02.27-05.56.20:233][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.02.27-05.56.20:295][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.02.27-05.56.20:462][  0]LogShaderCompilers: Guid format shader working directory is 6 characters bigger than the processId version (D:/Projects/UE4-Projects/LearningProject/Intermediate/Shaders/WorkingDirectory/1296/).
+[2020.02.27-05.56.20:462][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/alous/AppData/Local/Temp/UnrealShaderWorkingDir/4F537E0143DACB6275F339961D6A9E3B/'.
+[2020.02.27-05.56.20:468][  0]LogXGEController: Cleaning working directory: C:/Users/alous/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.02.27-05.56.20:468][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.02.27-05.56.20:468][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.02.27-05.56.20:469][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.02.27-05.56.24:090][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.02.27-05.56.24:197][  0]LogDerivedDataCache: Loaded boot cache 0.11s 71MB C:/Users/alous/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.02.27-05.56.24:197][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/alous/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.02.27-05.56.24:197][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Projects/UE4-Projects/LearningProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.02.27-05.56.24:197][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.02.27-05.56.24:197][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Projects/UE4-Projects/LearningProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.27-05.56.24:197][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.02.27-05.56.24:224][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.02.27-05.56.24:224][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.27-05.56.24:224][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.02.27-05.56.24:236][  0]LogDerivedDataCache: Using Local data cache path C:/Users/alous/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.02.27-05.56.24:236][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.02.27-05.56.24:236][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.02.27-05.56.24:272][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.02.27-05.56.24:278][  0]LogSlate: Using FreeType 2.6.0
+[2020.02.27-05.56.24:297][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.02.27-05.56.24:699][  0]LogAssetRegistry: FAssetRegistry took 0.0372 seconds to start up
+[2020.02.27-05.56.25:197][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.27-05.56.25:505][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.02.27-05.56.25:505][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.02.27-05.56.25:505][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.02.27-05.56.25:505][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.02.27-05.56.25:505][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.02.27-05.56.25:678][  0]LogNetVersion: LearningProject 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 2503646716)
+[2020.02.27-05.56.28:220][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 1.027614 seconds
+[2020.02.27-05.56.28:240][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.02.27-05.56.28:240][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.02.27-05.56.28:240][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.02.27-05.56.32:796][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.02.27-05.56.32:816][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.02.27-05.56.33:186][  0]SourceControl: Source control is disabled
+[2020.02.27-05.56.33:187][  0]SourceControl: Source control is disabled
+[2020.02.27-05.56.33:205][  0]SourceControl: Source control is disabled
+[2020.02.27-05.56.33:213][  0]SourceControl: Source control is disabled
+[2020.02.27-05.56.33:520][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.02.27-05.56.33:684][  0]LogOcInput: OculusInput pre-init called
+[2020.02.27-05.56.34:652][  0]LogEngine: Initializing Engine...
+[2020.02.27-05.56.34:655][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.27-05.56.34:657][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2020.02.27-05.56.35:129][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.02.27-05.56.35:189][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.02.27-05.56.35:223][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.27-05.56.35:456][  0]LogInit: FAudioDevice initialized.
+[2020.02.27-05.56.35:456][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.02.27-05.56.35:516][  0]LogDerivedDataCache: Saved boot cache 0.06s 71MB C:/Users/alous/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.02.27-05.56.35:525][  0]LogInit: Texture streaming: Enabled
+[2020.02.27-05.56.35:556][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.02.27-05.56.35:812][  0]LogInit: Transaction tracking system initialized
+[2020.02.27-05.56.35:888][  0]BlueprintLog: New page: Editor Load
+[2020.02.27-05.56.36:132][  0]LocalizationService: Localization service is disabled
+[2020.02.27-05.56.37:535][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.02.27-05.56.37:535][  0]LogCook: Display: Mobile HDR setting 1
+[2020.02.27-05.56.38:053][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/UE4-Projects/LearningProject/Content/' took 0.05s
+[2020.02.27-05.56.38:053][  0]SourceControl: Source control is disabled
+[2020.02.27-05.56.38:053][  0]Cmd: MAP LOAD FILE="D:/Projects/UE4-Projects/LearningProject/Content/Maps/SunTemple.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.27-05.56.38:054][  0]LightingResults: New page: Lighting Build
+[2020.02.27-05.56.38:062][  0]MapCheck: New page: Map Check
+[2020.02.27-05.56.38:062][  0]LightingResults: New page: Lighting Build
+[2020.02.27-05.56.38:092][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2020.02.27-05.56.39:040][  0]LogLinker: Error: HOTRELOADED_Main_11 has an inappropriate outermost, it was probably saved with a deprecated outer (file: D:/Projects/UE4-Projects/LearningProject/Content/HUD/StaminaBar.uasset)
+[2020.02.27-05.56.39:041][  0]LogLinker: Error: HOTRELOADED_Main_11 has an inappropriate outermost, it was probably saved with a deprecated outer (file: D:/Projects/UE4-Projects/LearningProject/Content/HUD/StaminaBar.uasset)
+[2020.02.27-05.56.39:041][  0]LogLinker: Error: HOTRELOADED_Main_11 has an inappropriate outermost, it was probably saved with a deprecated outer (file: D:/Projects/UE4-Projects/LearningProject/Content/HUD/StaminaBar.uasset)
+[2020.02.27-05.56.39:042][  0]LogLinker: Error: HOTRELOADED_Main_11 has an inappropriate outermost, it was probably saved with a deprecated outer (file: D:/Projects/UE4-Projects/LearningProject/Content/HUD/StaminaBar.uasset)
+[2020.02.27-05.56.39:042][  0]LogLinker: Error: HOTRELOADED_Main_11 has an inappropriate outermost, it was probably saved with a deprecated outer (file: D:/Projects/UE4-Projects/LearningProject/Content/HUD/StaminaBar.uasset)
+[2020.02.27-05.56.39:042][  0]LogLinker: Error: HOTRELOADED_Main_11 has an inappropriate outermost, it was probably saved with a deprecated outer (file: D:/Projects/UE4-Projects/LearningProject/Content/HUD/StaminaBar.uasset)
+[2020.02.27-05.56.50:237][  0]LogPackageName: Warning: Asset path "FX_Meshes.UI.SM_SelectionMesh_01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.02.27-05.56.50:237][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.02.27-05.56.50:586][  0]LogPackageName: SearchForPackageOnDisk took   0.349s, but failed to resolve FX_Meshes.
+[2020.02.27-05.56.50:586][  0]LogPackageName: Warning: Asset path "FX_Meshes.UI.SM_SelectionMesh_01" could not be resolved.
+[2020.02.27-05.56.51:945][  0]LogStaticMesh: Building static mesh SM_Cave_Rock_Large02...
+[2020.02.27-05.56.51:994][  0]LogStaticMesh: Built static mesh [0.05s] /Game/Assets/Meshes/SM_Cave_Rock_Large02.SM_Cave_Rock_Large02
+[2020.02.27-05.56.55:656][  0]LogAIModule: Creating AISystem for world SunTemple
+[2020.02.27-05.56.55:791][  0]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2020.02.27-05.56.55:874][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2020.02.27-05.56.55:874][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.27-05.56.55:874][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.257ms to complete.
+[2020.02.27-05.56.55:874][  0]LogFileHelpers: Loading map 'SunTemple' took 17.820
+[2020.02.27-05.56.56:430][  0]LogCollectionManager: Loaded 0 collections in 0.006662 seconds
+[2020.02.27-05.56.56:485][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/UE4-Projects/LearningProject/Saved/Collections/' took 0.01s
+[2020.02.27-05.56.56:485][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/UE4-Projects/LearningProject/Content/Developers/alous/Collections/' took 0.01s
+[2020.02.27-05.56.56:485][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/UE4-Projects/LearningProject/Content/Collections/' took 0.00s
+[2020.02.27-05.56.56:485][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.02.27-05.56.56:520][  0]LogContentBrowser: Native class hierarchy populated in 0.0332 seconds. Added 2746 classes and 662 folders.
+[2020.02.27-05.56.56:545][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2020.02.27-05.56.56:565][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.27-05.56.56:582][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.27-05.56.56:626][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.27-05.56.56:640][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.27-05.56.56:656][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.27-05.56.56:675][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.27-05.56.56:692][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.27-05.56.56:704][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.27-05.56.56:720][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.27-05.56.56:735][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.27-05.56.56:749][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.27-05.56.56:762][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.27-05.56.56:776][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.27-05.56.56:790][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.27-05.56.56:803][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.27-05.56.56:816][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.27-05.56.56:896][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.27-05.56.56:910][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.27-05.56.56:925][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.27-05.56.56:940][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.27-05.56.56:957][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.27-05.56.56:973][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.27-05.56.56:988][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.27-05.56.57:002][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.27-05.56.57:019][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.27-05.56.57:040][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.27-05.56.57:453][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2020.02.27-05.56.57:746][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.27-05.56.57:780][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.27-05.56.57:814][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.27-05.56.57:847][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.27-05.56.57:900][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0014 seconds. Added 1 classes and 2 folders.
+[2020.02.27-05.56.58:348][  0]LogSlate: Took 0.012895 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.02.27-05.56.58:371][  0]LogSlate: Took 0.018293 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.02.27-05.56.58:380][  0]LogSlate: Took 0.008613 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.02.27-05.56.58:585][  0]LogRenderer: Reallocating scene render targets to support 872x844 Format 9 NumSamples 1 (Frame:1).
+[2020.02.27-05.56.58:982][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0033 seconds. Added 0 classes and 0 folders.
+[2020.02.27-05.56.58:983][  0]LogLoad: (Engine Initialization) Total time: 54.62 seconds
+[2020.02.27-05.56.58:983][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.02.27-05.56.59:098][  0]LogContentStreaming: Texture pool size now 400 MB
+[2020.02.27-05.56.59:534][  3]LogAssetRegistry: Asset discovery search completed in 34.8580 seconds
+[2020.02.27-05.56.59:540][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.02.27-05.56.59:540][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000130 seconds (updated 0 objects)
+[2020.02.27-05.57.00:197][ 25]LogSlate: Took 0.012443 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.27-05.57.14:932][737]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.27-05.57.15:060][743]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.27-05.57.15:161][743]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2020.02.27-05.57.15:176][743]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.27-05.57.15:179][743]PIE: New page: PIE session: SunTemple (28 Feb 2020 3:57:15 am)
+[2020.02.27-05.57.15:197][743]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SunTemple
+[2020.02.27-05.57.15:419][743]LogPlayLevel: PIE: StaticDuplicateObject took: (0.222200s)
+[2020.02.27-05.57.15:421][743]LogAIModule: Creating AISystem for world SunTemple
+[2020.02.27-05.57.15:422][743]LogPlayLevel: PIE: World Init took: (0.002107s)
+[2020.02.27-05.57.15:423][743]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SunTemple.SunTemple to /Game/Maps/UEDPIE_0_SunTemple.SunTemple (0.226162s)
+[2020.02.27-05.57.15:495][743]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2020.02.27-05.57.15:529][743]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.27-05.57.15:628][743]LogInit: FAudioDevice initialized.
+[2020.02.27-05.57.15:683][743]LogLoad: Game class is 'CritterGameMode_BP_C'
+[2020.02.27-05.57.15:748][743]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SunTemple.SunTemple up for play (max tick rate 60) at 2020.02.27-16.57.15
+[2020.02.27-05.57.15:753][743]LogWorld: Bringing up level for play took: 0.064191
+[2020.02.27-05.57.15:802][743]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0018 seconds. Added 20 classes and 0 folders.
+[2020.02.27-05.57.15:848][743]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SunTemple 1.039
+[2020.02.27-05.57.15:849][743]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2020.02.27-05.57.17:872][824]LogTemp: Warning: Super::Overlap End.
+[2020.02.27-05.57.17:873][824]LogTemp: Warning: APickup::Overlap End.
+[2020.02.27-05.57.27:947][336]LogTemp: Warning: Super::Overlap begin.
+[2020.02.27-05.57.27:948][336]LogTemp: Warning: Super::Overlap End.
+[2020.02.27-05.57.27:948][336]LogTemp: Warning: APickup::Overlap End.
+[2020.02.27-05.57.27:949][336]LogTemp: Warning: APickup::Overlap begin.
+[2020.02.27-05.57.29:698][422]LogTemp: Warning: Super::Overlap begin.
+[2020.02.27-05.57.29:699][422]LogTemp: Warning: Super::Overlap End.
+[2020.02.27-05.57.29:699][422]LogTemp: Warning: Overlap End.
+[2020.02.27-05.57.29:699][422]LogTemp: Warning: Overlap begin.
+[2020.02.27-05.57.30:320][451]LogTemp: Warning: Super::Overlap begin.
+[2020.02.27-05.57.30:322][451]LogTemp: Warning: Super::Overlap End.
+[2020.02.27-05.57.30:322][451]LogTemp: Warning: Overlap End.
+[2020.02.27-05.57.30:322][451]LogTemp: Warning: Overlap begin.
+[2020.02.27-05.57.31:559][504]LogTemp: Warning: Super::Overlap begin.
+[2020.02.27-05.57.31:561][504]LogTemp: Warning: Super::Overlap End.
+[2020.02.27-05.57.31:561][504]LogTemp: Warning: Overlap End.
+[2020.02.27-05.57.31:562][504]LogTemp: Warning: Overlap begin.
+[2020.02.27-05.57.35:658][703]LogTemp: Warning: Super::Overlap begin.
+[2020.02.27-05.57.35:658][703]LogTemp: Warning: Super::Overlap End.
+[2020.02.27-05.57.35:658][703]LogTemp: Warning: Overlap End.
+[2020.02.27-05.57.35:658][703]LogTemp: Warning: Overlap begin.
+[2020.02.27-05.57.36:551][750]LogTemp: Warning: Super::Overlap begin.
+[2020.02.27-05.57.36:552][750]LogTemp: Warning: Super::Overlap End.
+[2020.02.27-05.57.36:552][750]LogTemp: Warning: Overlap End.
+[2020.02.27-05.57.36:552][750]LogTemp: Warning: Overlap begin.
+[2020.02.27-05.57.39:015][864]LogTemp: Warning: Super::Overlap begin.
+[2020.02.27-05.57.39:016][864]LogTemp: Warning: Super::Overlap End.
+[2020.02.27-05.57.39:016][864]LogTemp: Warning: Overlap End.
+[2020.02.27-05.57.39:016][864]LogTemp: Warning: Overlap begin.
+[2020.02.27-05.57.42:420][ 29]LogTemp: Warning: Super::Overlap begin.
+[2020.02.27-05.57.42:421][ 29]LogTemp: Warning: Super::Overlap End.
+[2020.02.27-05.57.42:421][ 29]LogTemp: Warning: Overlap End.
+[2020.02.27-05.57.42:421][ 29]LogTemp: Warning: Overlap begin.
+[2020.02.27-05.57.46:054][204]LogTemp: Warning: Overlap begin.
+[2020.02.27-05.57.47:395][268]LogTemp: Warning: Overlap End.
+[2020.02.27-05.58.06:733][217]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2020.02.27-05.58.06:735][217]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.27-05.58.06:806][217]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.27-05.58.06:808][217]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2020.02.27-05.58.06:913][217]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.27-05.58.06:932][217]LogUObjectHash: Compacting FUObjectHashTables data took   5.76ms
+[2020.02.27-05.58.07:087][218]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2020.02.27-05.58.09:648][337]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_BottomTrim_7)
+[2020.02.27-05.58.09:922][337]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.27-05.58.11:014][378]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rock_Large10)
+[2020.02.27-05.58.25:903][ 89]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_RockTerrain)
+[2020.02.27-05.58.28:384][208]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.27-05.58.54:375][337]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.27-05.58.54:597][341]LogActorFactory: Actor Factory created S_BuildingSetA_Tree_02
+[2020.02.27-05.58.55:829][389]LogActorFactory: Actor Factory created S_BuildingSetA_Tree_02
+[2020.02.27-05.59.02:073][681]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.27-05.59.02:343][688]LogActorFactory: Actor Factory created S_BuildingSetA_Tree_02
+[2020.02.27-05.59.04:715][792]LogActorFactory: Actor Factory created S_BuildingSetA_Tree_02
+[2020.02.27-05.59.05:768][838]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.27-05.59.06:046][847]LogActorFactory: Actor Factory created S_BuildingSetA_Tree_02
+[2020.02.27-05.59.09:011][983]LogActorFactory: Actor Factory created S_BuildingSetA_Tree_02
+[2020.02.27-05.59.20:492][568]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rock_Large13)
+[2020.02.27-06.00.15:730][397]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.27-06.00.15:865][404]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.27-06.00.19:885][404]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_Lower_2)
+[2020.02.27-06.00.20:031][404]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2020.02.27-06.00.20:031][404]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.27-06.00.20:032][404]PIE: New page: PIE session: SunTemple (28 Feb 2020 4:00:20 am)
+[2020.02.27-06.00.20:032][404]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SunTemple
+[2020.02.27-06.00.20:324][404]LogPlayLevel: PIE: StaticDuplicateObject took: (0.291242s)
+[2020.02.27-06.00.20:325][404]LogAIModule: Creating AISystem for world SunTemple
+[2020.02.27-06.00.20:325][404]LogPlayLevel: PIE: World Init took: (0.001393s)
+[2020.02.27-06.00.20:325][404]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SunTemple.SunTemple to /Game/Maps/UEDPIE_0_SunTemple.SunTemple (0.293235s)
+[2020.02.27-06.00.20:364][404]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2020.02.27-06.00.20:381][404]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.27-06.00.20:434][404]LogInit: FAudioDevice initialized.
+[2020.02.27-06.00.20:434][404]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.27-06.00.20:468][404]LogLoad: Game class is 'CritterGameMode_BP_C'
+[2020.02.27-06.00.20:506][404]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SunTemple.SunTemple up for play (max tick rate 60) at 2020.02.27-17.00.20
+[2020.02.27-06.00.20:508][404]LogWorld: Bringing up level for play took: 0.039959
+[2020.02.27-06.00.20:532][404]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SunTemple -0.277
+[2020.02.27-06.00.20:533][404]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2020.02.27-06.00.23:044][522]LogTemp: Warning: Super::Overlap End.
+[2020.02.27-06.00.23:045][522]LogTemp: Warning: APickup::Overlap End.
+[2020.02.27-06.00.26:142][681]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2020.02.27-06.00.26:143][681]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.27-06.00.26:207][681]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.27-06.00.26:207][681]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2020.02.27-06.00.26:268][681]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.27-06.00.26:279][681]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2020.02.27-06.00.26:422][682]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2020.02.27-06.00.28:343][765]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.27-06.08.01:331][400]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.02.27-06.08.01:334][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SunTemple" FILE="D:/Projects/UE4-Projects/LearningProject/Saved/Autosaves/Game/Maps/SunTemple_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.02.27-06.08.02:619][400]LogSavePackage: Moving 'D:/Projects/UE4-Projects/LearningProject/Saved/SunTemple_Auto15F635C4A4D530D7C646945A3F314F758.tmp' to 'D:/Projects/UE4-Projects/LearningProject/Saved/Autosaves/Game/Maps/SunTemple_Auto1.umap'
+[2020.02.27-06.08.02:801][400]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/SunTemple' took 1.494
+[2020.02.27-06.08.02:802][400]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.494
+[2020.02.27-06.23.28:153][233]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.27-06.23.28:336][233]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2020.02.27-06.23.28:336][233]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.27-06.23.28:337][233]PIE: New page: PIE session: SunTemple (28 Feb 2020 4:23:28 am)
+[2020.02.27-06.23.28:338][233]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SunTemple
+[2020.02.27-06.23.28:457][233]LogPlayLevel: PIE: StaticDuplicateObject took: (0.117853s)
+[2020.02.27-06.23.28:466][233]LogAIModule: Creating AISystem for world SunTemple
+[2020.02.27-06.23.28:467][233]LogPlayLevel: PIE: World Init took: (0.009613s)
+[2020.02.27-06.23.28:467][233]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SunTemple.SunTemple to /Game/Maps/UEDPIE_0_SunTemple.SunTemple (0.129161s)
+[2020.02.27-06.23.28:494][233]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2020.02.27-06.23.28:506][233]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.27-06.23.28:535][233]LogInit: FAudioDevice initialized.
+[2020.02.27-06.23.28:571][233]LogLoad: Game class is 'CritterGameMode_BP_C'
+[2020.02.27-06.23.28:598][233]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SunTemple.SunTemple up for play (max tick rate 60) at 2020.02.27-17.23.28
+[2020.02.27-06.23.28:600][233]LogWorld: Bringing up level for play took: 0.026811
+[2020.02.27-06.23.28:631][233]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SunTemple -0.178
+[2020.02.27-06.23.28:633][233]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2020.02.27-06.23.31:208][361]LogTemp: Warning: Super::Overlap End.
+[2020.02.27-06.23.31:208][361]LogTemp: Warning: APickup::Overlap End.
+[2020.02.27-06.23.32:013][402]LogTemp: Warning: Super::Overlap begin.
+[2020.02.27-06.23.32:029][402]LogTemp: Warning: Super::Overlap End.
+[2020.02.27-06.23.32:033][402]LogTemp: Warning: APickup::Overlap End.
+[2020.02.27-06.23.32:034][402]LogTemp: Warning: APickup::Overlap begin.
+[2020.02.27-06.23.36:845][647]LogTemp: Warning: Super::Overlap begin.
+[2020.02.27-06.23.36:845][647]LogTemp: Warning: Super::Overlap End.
+[2020.02.27-06.23.36:846][647]LogTemp: Warning: Overlap End.
+[2020.02.27-06.23.36:846][647]LogTemp: Warning: Overlap begin.
+[2020.02.27-06.23.38:525][732]LogTemp: Warning: Super::Overlap begin.
+[2020.02.27-06.23.38:526][732]LogTemp: Warning: Super::Overlap End.
+[2020.02.27-06.23.38:526][732]LogTemp: Warning: Overlap End.
+[2020.02.27-06.23.38:526][732]LogTemp: Warning: Overlap begin.
+[2020.02.27-06.23.41:118][863]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2020.02.27-06.23.41:134][863]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.27-06.23.41:172][863]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.27-06.23.41:172][863]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2020.02.27-06.23.41:206][863]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.27-06.23.41:215][863]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2020.02.27-06.23.41:271][864]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.02.27-06.23.42:676][934]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.27-06.23.42:814][939]Candidate modules for hot reload:
+[2020.02.27-06.23.42:814][939]  LearningProject
+[2020.02.27-06.23.42:815][939]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=LearningProject,8292 Win64 Development -TargetType=Editor -Project="D:/Projects/UE4-Projects/LearningProject/LearningProject.uproject" "D:/Projects/UE4-Projects/LearningProject/LearningProject.uproject"  -IgnoreJunk]
+[2020.02.27-06.23.42:817][939]Warning: Starting HotReload took  0.0s.
+[2020.02.27-06.24.01:464][874]CompilerResultsLog: New page: Compilation - 28 Feb 2020 4:24:01 am
+[2020.02.27-06.24.01:465][874]CompilerResultsLog: Creating makefile for LearningProjectEditor (ini files are newer than makefile)
+[2020.02.27-06.24.01:465][874]CompilerResultsLog: Parsing headers for LearningProjectEditor
+[2020.02.27-06.24.01:465][874]CompilerResultsLog:   Running UnrealHeaderTool "D:\Projects\UE4-Projects\LearningProject\LearningProject.uproject" "D:\Projects\UE4-Projects\LearningProject\Intermediate\Build\Win64\LearningProjectEditor\Development\LearningProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.02.27-06.24.01:466][874]CompilerResultsLog: Reflection code generated for LearningProjectEditor in 11.2838553 seconds
+[2020.02.27-06.24.01:466][874]CompilerResultsLog: Using Visual Studio 2019 14.24.28314 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.02.27-06.24.01:466][874]CompilerResultsLog: Building 3 actions with 4 processes...
+[2020.02.27-06.24.01:466][874]CompilerResultsLog:   [1/3] UE4Editor-LearningProject-8292.lib
+[2020.02.27-06.24.01:466][874]CompilerResultsLog:      Creating library D:\Projects\UE4-Projects\LearningProject\Intermediate\Build\Win64\UE4Editor\Development\LearningProject\UE4Editor-LearningProject-8292.lib and object D:\Projects\UE4-Projects\LearningProject\Intermediate\Build\Win64\UE4Editor\Development\LearningProject\UE4Editor-LearningProject-8292.exp
+[2020.02.27-06.24.01:466][874]CompilerResultsLog:   [2/3] UE4Editor-LearningProject-8292.dll
+[2020.02.27-06.24.01:466][874]CompilerResultsLog:      Creating library D:\Projects\UE4-Projects\LearningProject\Intermediate\Build\Win64\UE4Editor\Development\LearningProject\UE4Editor-LearningProject-8292.suppressed.lib and object D:\Projects\UE4-Projects\LearningProject\Intermediate\Build\Win64\UE4Editor\Development\LearningProject\UE4Editor-LearningProject-8292.suppressed.exp
+[2020.02.27-06.24.01:466][874]CompilerResultsLog:   [3/3] LearningProjectEditor.target
+[2020.02.27-06.24.01:466][874]CompilerResultsLog: Total time in Parallel executor: 2.58 seconds
+[2020.02.27-06.24.01:466][874]CompilerResultsLog: Total execution time: 18.36 seconds
+[2020.02.27-06.24.01:466][874]LogMainFrame: MainFrame: Module compiling took 18.657 seconds
+[2020.02.27-06.24.01:506][874]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2020.02.27-06.24.01:562][874]LogClass: Could not find existing class Explosive in package /Script/LearningProject for HotReload, assuming new class
+[2020.02.27-06.24.01:580][874]LogClass: Could not find existing class Pickup in package /Script/LearningProject for HotReload, assuming new class
+[2020.02.27-06.24.01:598][874]LogHotReload: Re-instancing Explosive after hot-reload.
+[2020.02.27-06.24.01:930][874]LogHotReload: Re-instancing Pickup after hot-reload.
+[2020.02.27-06.24.02:121][874]LogContentBrowser: Native class hierarchy updated for 'LearningProject' in 0.0160 seconds. Added 14 classes and 3 folders.
+[2020.02.27-06.24.02:124][874]Display: HotReload successful (9 functions remapped  0 scriptstructs remapped)
+[2020.02.27-06.24.02:224][874]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2020.02.27-06.24.02:250][874]LogContentBrowser: Native class hierarchy populated in 0.0138 seconds. Added 2747 classes and 664 folders.
+[2020.02.27-06.24.02:255][874]Display: HotReload took 19.5s.
+[2020.02.27-06.24.04:961][  7]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.27-06.24.04:993][  7]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2020.02.27-06.24.04:994][  7]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.27-06.24.04:994][  7]PIE: New page: PIE session: SunTemple (28 Feb 2020 4:24:04 am)
+[2020.02.27-06.24.04:994][  7]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SunTemple
+[2020.02.27-06.24.05:059][  7]LogPlayLevel: PIE: StaticDuplicateObject took: (0.064650s)
+[2020.02.27-06.24.05:060][  7]LogAIModule: Creating AISystem for world SunTemple
+[2020.02.27-06.24.05:060][  7]LogPlayLevel: PIE: World Init took: (0.000641s)
+[2020.02.27-06.24.05:060][  7]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SunTemple.SunTemple to /Game/Maps/UEDPIE_0_SunTemple.SunTemple (0.065644s)
+[2020.02.27-06.24.05:080][  7]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2020.02.27-06.24.05:086][  7]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.27-06.24.05:107][  7]LogInit: FAudioDevice initialized.
+[2020.02.27-06.24.05:150][  7]LogLoad: Game class is 'CritterGameMode_BP_C'
+[2020.02.27-06.24.05:179][  7]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SunTemple.SunTemple up for play (max tick rate 60) at 2020.02.27-17.24.05
+[2020.02.27-06.24.05:180][  7]LogWorld: Bringing up level for play took: 0.027955
+[2020.02.27-06.24.05:203][  7]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SunTemple 0.395
+[2020.02.27-06.24.05:204][  7]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2020.02.27-06.24.06:581][ 77]LogTemp: Warning: Super::Overlap End.
+[2020.02.27-06.24.06:581][ 77]LogTemp: Warning: APickup::Overlap End.
+[2020.02.27-06.24.08:026][150]LogTemp: Warning: Super::Overlap begin.
+[2020.02.27-06.24.08:026][150]LogTemp: Warning: Super::Overlap End.
+[2020.02.27-06.24.08:026][150]LogTemp: Warning: APickup::Overlap End.
+[2020.02.27-06.24.08:026][150]LogTemp: Warning: APickup::Overlap begin.
+[2020.02.27-06.24.11:127][308]LogTemp: Warning: Super::Overlap begin.
+[2020.02.27-06.24.11:127][308]LogTemp: Warning: Super::Overlap End.
+[2020.02.27-06.24.11:128][308]LogTemp: Warning: Overlap End.
+[2020.02.27-06.24.11:128][308]LogTemp: Warning: Overlap begin.
+[2020.02.27-06.24.12:715][389]LogTemp: Warning: Super::Overlap begin.
+[2020.02.27-06.24.12:716][389]LogTemp: Warning: Super::Overlap End.
+[2020.02.27-06.24.12:716][389]LogTemp: Warning: Overlap End.
+[2020.02.27-06.24.12:716][389]LogTemp: Warning: Overlap begin.
+[2020.02.27-06.24.14:307][470]LogTemp: Warning: Super::Overlap begin.
+[2020.02.27-06.24.14:307][470]LogTemp: Warning: Super::Overlap End.
+[2020.02.27-06.24.14:307][470]LogTemp: Warning: Overlap End.
+[2020.02.27-06.24.14:307][470]LogTemp: Warning: Overlap begin.
+[2020.02.27-06.24.16:801][597]LogTemp: Warning: Super::Overlap begin.
+[2020.02.27-06.24.16:801][597]LogTemp: Warning: Super::Overlap End.
+[2020.02.27-06.24.16:801][597]LogTemp: Warning: Overlap End.
+[2020.02.27-06.24.16:801][597]LogTemp: Warning: Overlap begin.
+[2020.02.27-06.24.18:096][663]LogTemp: Warning: Super::Overlap begin.
+[2020.02.27-06.24.18:096][663]LogTemp: Warning: Super::Overlap End.
+[2020.02.27-06.24.18:097][663]LogTemp: Warning: Overlap End.
+[2020.02.27-06.24.18:097][663]LogTemp: Warning: Overlap begin.
+[2020.02.27-06.24.20:381][779]LogTemp: Warning: Super::Overlap begin.
+[2020.02.27-06.24.20:381][779]LogTemp: Warning: Super::Overlap End.
+[2020.02.27-06.24.20:381][779]LogTemp: Warning: Overlap End.
+[2020.02.27-06.24.20:381][779]LogTemp: Warning: Overlap begin.
+[2020.02.27-06.24.22:264][875]LogTemp: Warning: Super::Overlap begin.
+[2020.02.27-06.24.22:264][875]LogTemp: Warning: Super::Overlap End.
+[2020.02.27-06.24.22:264][875]LogTemp: Warning: Overlap End.
+[2020.02.27-06.24.22:265][875]LogTemp: Warning: Overlap begin.
+[2020.02.27-06.25.24:843][ 65]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2020.02.27-06.25.24:844][ 65]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.27-06.25.24:897][ 65]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.27-06.25.24:898][ 65]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2020.02.27-06.25.24:930][ 65]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.27-06.25.24:940][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2020.02.27-06.25.24:992][ 66]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.02.27-06.25.36:364][639]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.27-07.29.21:610][754]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.02.27-07.29.21:610][754]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.02.27-07.29.21:610][754]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.02.27-07.29.21:610][754]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.02.27-07.29.21:610][754]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.02.27-07.29.21:610][754]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.02.27-07.29.21:610][754]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.02.27-07.29.21:611][754]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.02.27-07.29.21:611][754]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.02.27-07.29.21:611][754]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.02.27-07.29.21:611][754]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.02.27-07.29.21:611][754]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.02.27-07.29.21:611][754]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.02.27-07.29.21:611][754]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.02.27-07.29.21:611][754]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.02.27-07.29.21:611][754]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.02.27-07.29.21:611][754]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.02.27-07.29.21:611][754]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.02.27-07.29.21:611][754]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.02.27-07.29.21:611][754]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.02.27-07.29.21:611][754]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.02.27-07.29.21:611][754]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.02.27-07.29.21:611][754]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.02.27-07.29.21:612][754]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.02.27-07.29.21:612][754]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.02.27-07.29.21:612][754]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.02.27-07.29.21:612][754]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.02.27-07.29.21:612][754]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.02.27-07.29.21:612][754]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.02.27-07.29.21:612][754]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.02.27-07.29.21:612][754]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.02.27-07.29.21:612][754]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.02.27-07.29.21:612][754]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.02.27-07.29.21:612][754]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.02.27-07.29.21:612][754]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.02.27-07.29.21:612][754]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.02.27-07.29.21:612][754]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.02.27-07.29.21:613][754]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.02.27-07.29.21:613][754]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.02.27-07.29.21:613][754]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.02.27-07.29.21:613][754]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.02.27-07.29.21:613][754]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.02.27-07.29.21:613][754]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.02.27-07.29.21:613][754]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.02.27-07.29.21:614][754]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.02.27-07.29.21:614][754]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.02.27-07.29.21:614][754]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.02.27-07.29.21:614][754]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.02.27-07.29.21:614][754]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.02.27-07.29.21:614][754]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.02.27-07.29.21:614][754]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.02.27-07.29.21:614][754]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.02.27-07.29.21:614][754]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.02.27-07.29.21:614][754]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.02.27-07.29.21:614][754]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.02.27-07.29.21:614][754]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.02.27-07.29.21:615][754]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.02.27-07.29.59:067][857]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (37.457 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.02.27-07.42.26:271][358]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Projects/UE4-Projects/GameAssets/Animation/Falling Forward Death.fbx)
+[2020.02.27-07.42.26:361][358]LogFbx: Loading FBX Scene from D:/Projects/UE4-Projects/GameAssets/Animation/Falling Forward Death.fbx
+[2020.02.27-07.42.26:462][358]LogFbx: FBX Scene Loaded Succesfully
+[2020.02.27-07.42.38:309][358]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.02.27-07.42.38:456][358]LogFbx: SortedLinks :(0) Hips
+[2020.02.27-07.42.38:456][358]LogFbx: SortedLinks :(1) Spine
+[2020.02.27-07.42.38:456][358]LogFbx: SortedLinks :(2) Spine1
+[2020.02.27-07.42.38:457][358]LogFbx: SortedLinks :(3) Spine2
+[2020.02.27-07.42.38:457][358]LogFbx: SortedLinks :(4) Neck
+[2020.02.27-07.42.38:457][358]LogFbx: SortedLinks :(5) Neck1
+[2020.02.27-07.42.38:457][358]LogFbx: SortedLinks :(6) Head
+[2020.02.27-07.42.38:457][358]LogFbx: SortedLinks :(7) HeadTop_End
+[2020.02.27-07.42.38:457][358]LogFbx: SortedLinks :(8) LeftShoulder
+[2020.02.27-07.42.38:457][358]LogFbx: SortedLinks :(9) LeftArm
+[2020.02.27-07.42.38:457][358]LogFbx: SortedLinks :(10) LeftForeArm
+[2020.02.27-07.42.38:457][358]LogFbx: SortedLinks :(11) LeftHand
+[2020.02.27-07.42.38:457][358]LogFbx: SortedLinks :(12) LeftHandThumb1
+[2020.02.27-07.42.38:457][358]LogFbx: SortedLinks :(13) LeftHandThumb2
+[2020.02.27-07.42.38:457][358]LogFbx: SortedLinks :(14) LeftHandThumb3
+[2020.02.27-07.42.38:457][358]LogFbx: SortedLinks :(15) LeftHandThumb4
+[2020.02.27-07.42.38:457][358]LogFbx: SortedLinks :(16) LeftHandThumb5
+[2020.02.27-07.42.38:457][358]LogFbx: SortedLinks :(17) LeftHandMiddle1
+[2020.02.27-07.42.38:457][358]LogFbx: SortedLinks :(18) LeftHandMiddle2
+[2020.02.27-07.42.38:457][358]LogFbx: SortedLinks :(19) LeftHandMiddle3
+[2020.02.27-07.42.38:457][358]LogFbx: SortedLinks :(20) LeftHandMiddle4
+[2020.02.27-07.42.38:457][358]LogFbx: SortedLinks :(21) LeftHandMiddle5
+[2020.02.27-07.42.38:457][358]LogFbx: SortedLinks :(22) LeftHandIndex1
+[2020.02.27-07.42.38:457][358]LogFbx: SortedLinks :(23) LeftHandIndex2
+[2020.02.27-07.42.38:457][358]LogFbx: SortedLinks :(24) LeftHandIndex3
+[2020.02.27-07.42.38:457][358]LogFbx: SortedLinks :(25) LeftHandIndex4
+[2020.02.27-07.42.38:457][358]LogFbx: SortedLinks :(26) LeftHandIndex5
+[2020.02.27-07.42.38:457][358]LogFbx: SortedLinks :(27) LeftHandRing1
+[2020.02.27-07.42.38:457][358]LogFbx: SortedLinks :(28) LeftHandRing2
+[2020.02.27-07.42.38:457][358]LogFbx: SortedLinks :(29) LeftHandRing3
+[2020.02.27-07.42.38:457][358]LogFbx: SortedLinks :(30) LeftHandRing4
+[2020.02.27-07.42.38:457][358]LogFbx: SortedLinks :(31) LeftHandRing5
+[2020.02.27-07.42.38:457][358]LogFbx: SortedLinks :(32) LeftHandPinky1
+[2020.02.27-07.42.38:457][358]LogFbx: SortedLinks :(33) LeftHandPinky2
+[2020.02.27-07.42.38:457][358]LogFbx: SortedLinks :(34) LeftHandPinky3
+[2020.02.27-07.42.38:457][358]LogFbx: SortedLinks :(35) LeftHandPinky4
+[2020.02.27-07.42.38:457][358]LogFbx: SortedLinks :(36) LeftHandPinky5
+[2020.02.27-07.42.38:457][358]LogFbx: SortedLinks :(37) RightShoulder
+[2020.02.27-07.42.38:458][358]LogFbx: SortedLinks :(38) RightArm
+[2020.02.27-07.42.38:458][358]LogFbx: SortedLinks :(39) RightForeArm
+[2020.02.27-07.42.38:458][358]LogFbx: SortedLinks :(40) RightHand
+[2020.02.27-07.42.38:458][358]LogFbx: SortedLinks :(41) RightHandThumb1
+[2020.02.27-07.42.38:458][358]LogFbx: SortedLinks :(42) RightHandThumb2
+[2020.02.27-07.42.38:458][358]LogFbx: SortedLinks :(43) RightHandThumb3
+[2020.02.27-07.42.38:458][358]LogFbx: SortedLinks :(44) RightHandThumb4
+[2020.02.27-07.42.38:458][358]LogFbx: SortedLinks :(45) RightHandThumb5
+[2020.02.27-07.42.38:458][358]LogFbx: SortedLinks :(46) RightHandIndex1
+[2020.02.27-07.42.38:458][358]LogFbx: SortedLinks :(47) RightHandIndex2
+[2020.02.27-07.42.38:458][358]LogFbx: SortedLinks :(48) RightHandIndex3
+[2020.02.27-07.42.38:458][358]LogFbx: SortedLinks :(49) RightHandIndex4
+[2020.02.27-07.42.38:458][358]LogFbx: SortedLinks :(50) RightHandIndex5
+[2020.02.27-07.42.38:458][358]LogFbx: SortedLinks :(51) RightHandMiddle1
+[2020.02.27-07.42.38:458][358]LogFbx: SortedLinks :(52) RightHandMiddle2
+[2020.02.27-07.42.38:458][358]LogFbx: SortedLinks :(53) RightHandMiddle3
+[2020.02.27-07.42.38:458][358]LogFbx: SortedLinks :(54) RightHandMiddle4
+[2020.02.27-07.42.38:458][358]LogFbx: SortedLinks :(55) RightHandMiddle5
+[2020.02.27-07.42.38:458][358]LogFbx: SortedLinks :(56) RightHandRing1
+[2020.02.27-07.42.38:458][358]LogFbx: SortedLinks :(57) RightHandRing2
+[2020.02.27-07.42.38:458][358]LogFbx: SortedLinks :(58) RightHandRing3
+[2020.02.27-07.42.38:458][358]LogFbx: SortedLinks :(59) RightHandRing4
+[2020.02.27-07.42.38:458][358]LogFbx: SortedLinks :(60) RightHandRing5
+[2020.02.27-07.42.38:458][358]LogFbx: SortedLinks :(61) RightHandPinky1
+[2020.02.27-07.42.38:458][358]LogFbx: SortedLinks :(62) RightHandPinky2
+[2020.02.27-07.42.38:458][358]LogFbx: SortedLinks :(63) RightHandPinky3
+[2020.02.27-07.42.38:458][358]LogFbx: SortedLinks :(64) RightHandPinky4
+[2020.02.27-07.42.38:458][358]LogFbx: SortedLinks :(65) RightHandPinky5
+[2020.02.27-07.42.38:458][358]LogFbx: SortedLinks :(66) LeftUpLeg
+[2020.02.27-07.42.38:458][358]LogFbx: SortedLinks :(67) LeftLeg
+[2020.02.27-07.42.38:458][358]LogFbx: SortedLinks :(68) LeftFoot
+[2020.02.27-07.42.38:458][358]LogFbx: SortedLinks :(69) LeftToeBase
+[2020.02.27-07.42.38:458][358]LogFbx: SortedLinks :(70) LeftFootToeBase_End
+[2020.02.27-07.42.38:458][358]LogFbx: SortedLinks :(71) RightUpLeg
+[2020.02.27-07.42.38:458][358]LogFbx: SortedLinks :(72) RightLeg
+[2020.02.27-07.42.38:458][358]LogFbx: SortedLinks :(73) RightFoot
+[2020.02.27-07.42.38:458][358]LogFbx: SortedLinks :(74) RightToeBase
+[2020.02.27-07.42.38:458][358]LogFbx: SortedLinks :(75) RightFootToeBase_End
+[2020.02.27-07.42.38:461][358]LogFbx: Parsing AnimStack mixamo.com
+[2020.02.27-07.42.38:464][358]LogLinker: Can't find file '/Game/Character/Animation/Falling_Forward_Death'
+[2020.02.27-07.42.38:465][358]LogLinker: Can't find file '/Game/Character/Animation/Falling_Forward_Death'
+[2020.02.27-07.43.27:552][358]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/Animation/Falling_Forward_Death.Falling_Forward_Death
+[2020.02.27-07.43.27:583][358]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Falling_Forward_Death) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.02.27-07.43.29:055][358]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 D:/Projects/UE4-Projects/GameAssets/Animation/Two Cycle Sprint.fbx)
+[2020.02.27-07.43.29:081][358]LogFbx: Loading FBX Scene from D:/Projects/UE4-Projects/GameAssets/Animation/Two Cycle Sprint.fbx
+[2020.02.27-07.43.29:125][358]LogFbx: FBX Scene Loaded Succesfully
+[2020.02.27-07.43.29:132][358]LogFbx: SortedLinks :(0) Hips
+[2020.02.27-07.43.29:132][358]LogFbx: SortedLinks :(1) Spine
+[2020.02.27-07.43.29:132][358]LogFbx: SortedLinks :(2) Spine1
+[2020.02.27-07.43.29:132][358]LogFbx: SortedLinks :(3) Spine2
+[2020.02.27-07.43.29:132][358]LogFbx: SortedLinks :(4) Neck
+[2020.02.27-07.43.29:132][358]LogFbx: SortedLinks :(5) Neck1
+[2020.02.27-07.43.29:132][358]LogFbx: SortedLinks :(6) Head
+[2020.02.27-07.43.29:132][358]LogFbx: SortedLinks :(7) HeadTop_End
+[2020.02.27-07.43.29:132][358]LogFbx: SortedLinks :(8) LeftShoulder
+[2020.02.27-07.43.29:132][358]LogFbx: SortedLinks :(9) LeftArm
+[2020.02.27-07.43.29:132][358]LogFbx: SortedLinks :(10) LeftForeArm
+[2020.02.27-07.43.29:132][358]LogFbx: SortedLinks :(11) LeftHand
+[2020.02.27-07.43.29:132][358]LogFbx: SortedLinks :(12) LeftHandThumb1
+[2020.02.27-07.43.29:132][358]LogFbx: SortedLinks :(13) LeftHandThumb2
+[2020.02.27-07.43.29:132][358]LogFbx: SortedLinks :(14) LeftHandThumb3
+[2020.02.27-07.43.29:132][358]LogFbx: SortedLinks :(15) LeftHandThumb4
+[2020.02.27-07.43.29:132][358]LogFbx: SortedLinks :(16) LeftHandThumb5
+[2020.02.27-07.43.29:132][358]LogFbx: SortedLinks :(17) LeftHandMiddle1
+[2020.02.27-07.43.29:132][358]LogFbx: SortedLinks :(18) LeftHandMiddle2
+[2020.02.27-07.43.29:132][358]LogFbx: SortedLinks :(19) LeftHandMiddle3
+[2020.02.27-07.43.29:132][358]LogFbx: SortedLinks :(20) LeftHandMiddle4
+[2020.02.27-07.43.29:132][358]LogFbx: SortedLinks :(21) LeftHandMiddle5
+[2020.02.27-07.43.29:132][358]LogFbx: SortedLinks :(22) LeftHandIndex1
+[2020.02.27-07.43.29:132][358]LogFbx: SortedLinks :(23) LeftHandIndex2
+[2020.02.27-07.43.29:132][358]LogFbx: SortedLinks :(24) LeftHandIndex3
+[2020.02.27-07.43.29:132][358]LogFbx: SortedLinks :(25) LeftHandIndex4
+[2020.02.27-07.43.29:132][358]LogFbx: SortedLinks :(26) LeftHandIndex5
+[2020.02.27-07.43.29:132][358]LogFbx: SortedLinks :(27) LeftHandRing1
+[2020.02.27-07.43.29:132][358]LogFbx: SortedLinks :(28) LeftHandRing2
+[2020.02.27-07.43.29:132][358]LogFbx: SortedLinks :(29) LeftHandRing3
+[2020.02.27-07.43.29:132][358]LogFbx: SortedLinks :(30) LeftHandRing4
+[2020.02.27-07.43.29:132][358]LogFbx: SortedLinks :(31) LeftHandRing5
+[2020.02.27-07.43.29:132][358]LogFbx: SortedLinks :(32) LeftHandPinky1
+[2020.02.27-07.43.29:132][358]LogFbx: SortedLinks :(33) LeftHandPinky2
+[2020.02.27-07.43.29:132][358]LogFbx: SortedLinks :(34) LeftHandPinky3
+[2020.02.27-07.43.29:132][358]LogFbx: SortedLinks :(35) LeftHandPinky4
+[2020.02.27-07.43.29:132][358]LogFbx: SortedLinks :(36) LeftHandPinky5
+[2020.02.27-07.43.29:132][358]LogFbx: SortedLinks :(37) RightShoulder
+[2020.02.27-07.43.29:132][358]LogFbx: SortedLinks :(38) RightArm
+[2020.02.27-07.43.29:132][358]LogFbx: SortedLinks :(39) RightForeArm
+[2020.02.27-07.43.29:132][358]LogFbx: SortedLinks :(40) RightHand
+[2020.02.27-07.43.29:132][358]LogFbx: SortedLinks :(41) RightHandThumb1
+[2020.02.27-07.43.29:132][358]LogFbx: SortedLinks :(42) RightHandThumb2
+[2020.02.27-07.43.29:132][358]LogFbx: SortedLinks :(43) RightHandThumb3
+[2020.02.27-07.43.29:132][358]LogFbx: SortedLinks :(44) RightHandThumb4
+[2020.02.27-07.43.29:133][358]LogFbx: SortedLinks :(45) RightHandThumb5
+[2020.02.27-07.43.29:133][358]LogFbx: SortedLinks :(46) RightHandIndex1
+[2020.02.27-07.43.29:133][358]LogFbx: SortedLinks :(47) RightHandIndex2
+[2020.02.27-07.43.29:133][358]LogFbx: SortedLinks :(48) RightHandIndex3
+[2020.02.27-07.43.29:133][358]LogFbx: SortedLinks :(49) RightHandIndex4
+[2020.02.27-07.43.29:133][358]LogFbx: SortedLinks :(50) RightHandIndex5
+[2020.02.27-07.43.29:133][358]LogFbx: SortedLinks :(51) RightHandMiddle1
+[2020.02.27-07.43.29:133][358]LogFbx: SortedLinks :(52) RightHandMiddle2
+[2020.02.27-07.43.29:133][358]LogFbx: SortedLinks :(53) RightHandMiddle3
+[2020.02.27-07.43.29:133][358]LogFbx: SortedLinks :(54) RightHandMiddle4
+[2020.02.27-07.43.29:133][358]LogFbx: SortedLinks :(55) RightHandMiddle5
+[2020.02.27-07.43.29:133][358]LogFbx: SortedLinks :(56) RightHandRing1
+[2020.02.27-07.43.29:133][358]LogFbx: SortedLinks :(57) RightHandRing2
+[2020.02.27-07.43.29:133][358]LogFbx: SortedLinks :(58) RightHandRing3
+[2020.02.27-07.43.29:133][358]LogFbx: SortedLinks :(59) RightHandRing4
+[2020.02.27-07.43.29:133][358]LogFbx: SortedLinks :(60) RightHandRing5
+[2020.02.27-07.43.29:133][358]LogFbx: SortedLinks :(61) RightHandPinky1
+[2020.02.27-07.43.29:133][358]LogFbx: SortedLinks :(62) RightHandPinky2
+[2020.02.27-07.43.29:133][358]LogFbx: SortedLinks :(63) RightHandPinky3
+[2020.02.27-07.43.29:133][358]LogFbx: SortedLinks :(64) RightHandPinky4
+[2020.02.27-07.43.29:133][358]LogFbx: SortedLinks :(65) RightHandPinky5
+[2020.02.27-07.43.29:133][358]LogFbx: SortedLinks :(66) LeftUpLeg
+[2020.02.27-07.43.29:133][358]LogFbx: SortedLinks :(67) LeftLeg
+[2020.02.27-07.43.29:133][358]LogFbx: SortedLinks :(68) LeftFoot
+[2020.02.27-07.43.29:133][358]LogFbx: SortedLinks :(69) LeftToeBase
+[2020.02.27-07.43.29:133][358]LogFbx: SortedLinks :(70) LeftFootToeBase_End
+[2020.02.27-07.43.29:133][358]LogFbx: SortedLinks :(71) RightUpLeg
+[2020.02.27-07.43.29:133][358]LogFbx: SortedLinks :(72) RightLeg
+[2020.02.27-07.43.29:133][358]LogFbx: SortedLinks :(73) RightFoot
+[2020.02.27-07.43.29:133][358]LogFbx: SortedLinks :(74) RightToeBase
+[2020.02.27-07.43.29:133][358]LogFbx: SortedLinks :(75) RightFootToeBase_End
+[2020.02.27-07.43.29:134][358]LogFbx: Parsing AnimStack mixamo.com
+[2020.02.27-07.43.29:134][358]LogLinker: Can't find file '/Game/Character/Animation/Two_Cycle_Sprint'
+[2020.02.27-07.43.29:134][358]LogLinker: Can't find file '/Game/Character/Animation/Two_Cycle_Sprint'
+[2020.02.27-07.43.39:367][358]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/Animation/Two_Cycle_Sprint.Two_Cycle_Sprint
+[2020.02.27-07.43.39:373][358]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Two_Cycle_Sprint) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.02.27-07.43.39:505][359]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.02.27-07.43.39:609][359]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2020.02.27-07.43.39:610][359]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/SunTemple' took 0.030
+[2020.02.27-07.43.39:644][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Animation/Falling_Forward_Death] ([1] browsable assets)...
+[2020.02.27-07.43.39:659][359]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Character/Animation/Falling_Forward_Death.Falling_Forward_Death]
+[2020.02.27-07.43.39:659][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Animation/Falling_Forward_Death]
+[2020.02.27-07.43.39:736][359]LogSavePackage: Moving 'D:/Projects/UE4-Projects/LearningProject/Saved/Falling_Forward_Death_Auto23ABF76B54CE98B304D34A584DA9C4782.tmp' to 'D:/Projects/UE4-Projects/LearningProject/Saved/Autosaves/Game/Character/Animation/Falling_Forward_Death_Auto2.uasset'
+[2020.02.27-07.43.39:738][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Animation/Two_Cycle_Sprint] ([1] browsable assets)...
+[2020.02.27-07.43.39:751][359]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Character/Animation/Two_Cycle_Sprint.Two_Cycle_Sprint]
+[2020.02.27-07.43.39:752][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Animation/Two_Cycle_Sprint]
+[2020.02.27-07.43.39:824][359]LogSavePackage: Moving 'D:/Projects/UE4-Projects/LearningProject/Saved/Two_Cycle_Sprint_Auto24BAC6143400261FC75467CBB0C830C3E.tmp' to 'D:/Projects/UE4-Projects/LearningProject/Saved/Autosaves/Game/Character/Animation/Two_Cycle_Sprint_Auto2.uasset'
+[2020.02.27-07.43.39:826][359]LogFileHelpers: Auto-saving content packages took 0.214
+[2020.02.27-07.43.55:095][953]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.02.27-07.43.56:499][953]LogSlate: Window 'Save Content' being destroyed
+[2020.02.27-07.43.56:546][953]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Animation/Falling_Forward_Death" FILE="D:/Projects/UE4-Projects/LearningProject/Content/Character/Animation/Falling_Forward_Death.uasset" SILENT=true
+[2020.02.27-07.43.56:767][953]LogSavePackage: Moving 'D:/Projects/UE4-Projects/LearningProject/Saved/Falling_Forward_DeathDE65C07F42B7B771DB78B9ABD0EC5DA3.tmp' to 'D:/Projects/UE4-Projects/LearningProject/Content/Character/Animation/Falling_Forward_Death.uasset'
+[2020.02.27-07.43.56:782][953]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Animation/Two_Cycle_Sprint" FILE="D:/Projects/UE4-Projects/LearningProject/Content/Character/Animation/Two_Cycle_Sprint.uasset" SILENT=true
+[2020.02.27-07.43.56:824][953]LogSavePackage: Moving 'D:/Projects/UE4-Projects/LearningProject/Saved/Two_Cycle_Sprint0DA1E4C94F3E4226802E0C898A580A6E.tmp' to 'D:/Projects/UE4-Projects/LearningProject/Content/Character/Animation/Two_Cycle_Sprint.uasset'
+[2020.02.27-07.43.56:859][953]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SunTemple" FILE="D:/Projects/UE4-Projects/LearningProject/Content/Maps/SunTemple.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.27-07.43.56:885][953]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.02.27-07.43.58:138][953]LogSavePackage: Moving 'D:/Projects/UE4-Projects/LearningProject/Saved/SunTemple7E3D90E24F79532F689CC8BF6B94C4F1.tmp' to 'D:/Projects/UE4-Projects/LearningProject/Content/Maps/SunTemple.umap'
+[2020.02.27-07.43.58:347][953]LogFileHelpers: Saving map 'SunTemple' took 1.490
+[2020.02.27-07.43.59:020][980]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (19.515 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.02.27-07.59.55:470][694]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.27-08.00.03:219][947]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.02.27-08.00.40:721][386]LogSlate: Window 'Project Settings' being destroyed
+[2020.02.27-08.00.40:728][386]LogSlate: Window 'Project Settings' being destroyed
+[2020.02.27-08.00.42:830][484]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2020.02.27-08.06.51:104][941]Candidate modules for hot reload:
+[2020.02.27-08.06.51:104][941]  LearningProject
+[2020.02.27-08.06.51:105][941]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=LearningProject,9430 Win64 Development -TargetType=Editor -Project="D:/Projects/UE4-Projects/LearningProject/LearningProject.uproject" "D:/Projects/UE4-Projects/LearningProject/LearningProject.uproject"  -IgnoreJunk]
+[2020.02.27-08.06.51:115][941]Warning: Starting HotReload took  0.2s.
+[2020.02.27-08.10.13:125][303]CompilerResultsLog: New page: Compilation - 28 Feb 2020 6:10:13 am
+[2020.02.27-08.10.13:126][303]CompilerResultsLog: Creating makefile for LearningProjectEditor (ini files are newer than makefile)
+[2020.02.27-08.10.13:126][303]CompilerResultsLog: Parsing headers for LearningProjectEditor
+[2020.02.27-08.10.13:126][303]CompilerResultsLog:   Running UnrealHeaderTool "D:\Projects\UE4-Projects\LearningProject\LearningProject.uproject" "D:\Projects\UE4-Projects\LearningProject\Intermediate\Build\Win64\LearningProjectEditor\Development\LearningProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.02.27-08.10.13:126][303]CompilerResultsLog: Reflection code generated for LearningProjectEditor in 23.4426918 seconds
+[2020.02.27-08.10.13:126][303]CompilerResultsLog: Using Visual Studio 2019 14.24.28314 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.02.27-08.10.13:127][303]CompilerResultsLog: Building 8 actions with 4 processes...
+[2020.02.27-08.10.13:127][303]CompilerResultsLog:   [1/8] LearningProject.init.gen.cpp
+[2020.02.27-08.10.13:127][303]CompilerResultsLog:   [2/8] Explosive.cpp
+[2020.02.27-08.10.13:127][303]CompilerResultsLog:   [3/8] Pickup.cpp
+[2020.02.27-08.10.13:127][303]CompilerResultsLog:   [4/8] Main.gen.cpp
+[2020.02.27-08.10.13:127][303]CompilerResultsLog:   [5/8] Main.cpp
+[2020.02.27-08.10.13:127][303]CompilerResultsLog:   [6/8] UE4Editor-LearningProject-9430.lib
+[2020.02.27-08.10.13:127][303]CompilerResultsLog:      Creating library D:\Projects\UE4-Projects\LearningProject\Intermediate\Build\Win64\UE4Editor\Development\LearningProject\UE4Editor-LearningProject-9430.lib and object D:\Projects\UE4-Projects\LearningProject\Intermediate\Build\Win64\UE4Editor\Development\LearningProject\UE4Editor-LearningProject-9430.exp
+[2020.02.27-08.10.13:128][303]CompilerResultsLog:   [7/8] UE4Editor-LearningProject-9430.dll
+[2020.02.27-08.10.13:128][303]CompilerResultsLog:      Creating library D:\Projects\UE4-Projects\LearningProject\Intermediate\Build\Win64\UE4Editor\Development\LearningProject\UE4Editor-LearningProject-9430.suppressed.lib and object D:\Projects\UE4-Projects\LearningProject\Intermediate\Build\Win64\UE4Editor\Development\LearningProject\UE4Editor-LearningProject-9430.suppressed.exp
+[2020.02.27-08.10.13:128][303]CompilerResultsLog:   [8/8] LearningProjectEditor.target
+[2020.02.27-08.10.13:128][303]CompilerResultsLog: Total time in Parallel executor: 169.22 seconds
+[2020.02.27-08.10.13:128][303]CompilerResultsLog: Total execution time: 201.22 seconds
+[2020.02.27-08.10.13:128][303]LogMainFrame: MainFrame: Module compiling took 202.034 seconds
+[2020.02.27-08.10.13:222][303]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2020.02.27-08.10.13:315][303]LogClass: Could not find existing class Main in package /Script/LearningProject for HotReload, assuming new class
+[2020.02.27-08.10.13:322][303]LogClass: Could not find existing type EMovementStatus for HotReload. Assuming new
+[2020.02.27-08.10.13:358][303]LogHotReload: Re-instancing Main after hot-reload.
+[2020.02.27-08.10.13:630][303]LogContentBrowser: Native class hierarchy updated for 'LearningProject' in 0.0011 seconds. Added 14 classes and 3 folders.
+[2020.02.27-08.10.13:634][303]Display: HotReload successful (9 functions remapped  0 scriptstructs remapped)
+[2020.02.27-08.10.13:773][303]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2020.02.27-08.10.13:816][303]LogContentBrowser: Native class hierarchy populated in 0.0225 seconds. Added 2747 classes and 664 folders.
+[2020.02.27-08.10.13:817][303]Display: HotReload took 202.9s.
+[2020.02.27-08.10.45:734][ 70]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Character/Animation/MainAnime_BP.MainAnime_BP
+[2020.02.27-08.10.45:823][ 70]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2020.02.27-08.10.46:248][ 70]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.27-08.10.46:258][ 70]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0005 seconds. Added 1 classes and 0 folders.
+[2020.02.27-08.10.46:944][ 70]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 121 classes and 0 folders.
+[2020.02.27-08.10.48:336][ 70]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.02.27-08.10.48:925][ 70]LogSlate: Took 0.010402 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.02.27-08.10.49:137][ 70]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.02.27-08.11.00:386][628]LogSlate: Took 0.016029 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.02.27-08.12.36:719][372]LogUObjectHash: Compacting FUObjectHashTables data took  10.21ms
+[2020.02.27-08.12.36:720][372]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/SunTemple' took 0.091
+[2020.02.27-08.12.36:727][372]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Animation/MainAnime_BP] ([1] browsable assets)...
+[2020.02.27-08.12.36:758][372]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Character/Animation/MainAnime_BP.MainAnime_BP]
+[2020.02.27-08.12.36:758][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Animation/MainAnime_BP]
+[2020.02.27-08.12.37:033][372]LogSavePackage: Moving 'D:/Projects/UE4-Projects/LearningProject/Saved/MainAnime_BP_Auto3985041324BDA767C942B21BD07E34DA6.tmp' to 'D:/Projects/UE4-Projects/LearningProject/Saved/Autosaves/Game/Character/Animation/MainAnime_BP_Auto3.uasset'
+[2020.02.27-08.12.37:049][372]LogFileHelpers: Auto-saving content packages took 0.323
+[2020.02.27-08.15.13:972][966]Candidate modules for hot reload:
+[2020.02.27-08.15.13:972][966]  LearningProject
+[2020.02.27-08.15.13:972][966]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=LearningProject,108 Win64 Development -TargetType=Editor -Project="D:/Projects/UE4-Projects/LearningProject/LearningProject.uproject" "D:/Projects/UE4-Projects/LearningProject/LearningProject.uproject"  -IgnoreJunk]
+[2020.02.27-08.15.13:976][966]Warning: Starting HotReload took  0.0s.
+[2020.02.27-08.18.28:311][209]LogEditorViewport: Clicking on Actor (LMB): Explosive_BP_C (Explosive_BP4)
+[2020.02.27-08.19.28:587][105]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.27-08.19.28:758][110]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2020.02.27-08.19.32:120][110]LogSlate: Window 'Save Content' being destroyed

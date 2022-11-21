@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\LearningProject.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{106EA344-6108-4168-B8E3-43735B193408}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\LearningProject.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\LearningProjectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{C2D43144-6B8F-4F70-A19A-11D6EE49B2DB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\LearningProject">
+      <UniqueIdentifier>{197A35D2-E222-4AE3-B9DD-6AE9D8D9031E}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\LearningProject\Collider.cpp">
+      <Filter>Source\LearningProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LearningProject\Collider.h">
+      <Filter>Source\LearningProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\LearningProject\ColliderMovementComponent.cpp">
+      <Filter>Source\LearningProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LearningProject\ColliderMovementComponent.h">
+      <Filter>Source\LearningProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\LearningProject\Critter.cpp">
+      <Filter>Source\LearningProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LearningProject\Critter.h">
+      <Filter>Source\LearningProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\LearningProject\Enemy.cpp">
+      <Filter>Source\LearningProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LearningProject\Enemy.h">
+      <Filter>Source\LearningProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\LearningProject\EnemyAnimInstance.cpp">
+      <Filter>Source\LearningProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LearningProject\EnemyAnimInstance.h">
+      <Filter>Source\LearningProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\LearningProject\Explosive.cpp">
+      <Filter>Source\LearningProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LearningProject\Explosive.h">
+      <Filter>Source\LearningProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\LearningProject\FloatingPlatform.cpp">
+      <Filter>Source\LearningProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LearningProject\FloatingPlatform.h">
+      <Filter>Source\LearningProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\LearningProject\FloorSwitch.cpp">
+      <Filter>Source\LearningProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LearningProject\FloorSwitch.h">
+      <Filter>Source\LearningProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\LearningProject\Item.cpp">
+      <Filter>Source\LearningProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LearningProject\Item.h">
+      <Filter>Source\LearningProject</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\LearningProject\LearningProject.Build.cs">
+      <Filter>Source\LearningProject</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\LearningProject\LearningProject.cpp">
+      <Filter>Source\LearningProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LearningProject\LearningProject.h">
+      <Filter>Source\LearningProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\LearningProject\LearningProjectGameModeBase.cpp">
+      <Filter>Source\LearningProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LearningProject\LearningProjectGameModeBase.h">
+      <Filter>Source\LearningProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\LearningProject\Main.cpp">
+      <Filter>Source\LearningProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LearningProject\Main.h">
+      <Filter>Source\LearningProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\LearningProject\MainAnimInstance.cpp">
+      <Filter>Source\LearningProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LearningProject\MainAnimInstance.h">
+      <Filter>Source\LearningProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\LearningProject\MainPlayerController.cpp">
+      <Filter>Source\LearningProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LearningProject\MainPlayerController.h">
+      <Filter>Source\LearningProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\LearningProject\Pickup.cpp">
+      <Filter>Source\LearningProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LearningProject\Pickup.h">
+      <Filter>Source\LearningProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\LearningProject\SpawnVolume.cpp">
+      <Filter>Source\LearningProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LearningProject\SpawnVolume.h">
+      <Filter>Source\LearningProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\LearningProject\Weapon.cpp">
+      <Filter>Source\LearningProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LearningProject\Weapon.h">
+      <Filter>Source\LearningProject</Filter>
+    </ClInclude>
+    <Filter Include="Source\LearningProject\GameplayActors">
+      <UniqueIdentifier>{F492E773-B2AA-45C1-BED6-DAC6600EEB35}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\LearningProject\GameplayActors\Floater.cpp">
+      <Filter>Source\LearningProject\GameplayActors</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LearningProject\GameplayActors\Floater.h">
+      <Filter>Source\LearningProject\GameplayActors</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

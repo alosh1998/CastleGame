@@ -1,0 +1,2 @@
+M:\Projects\LearningProject_Cpy\Intermediate\Build\Win64\UE4Editor\Development\LearningProject\Definitions.LearningProject.h
+M:\Projects\LearningProject_Cpy\Source\LearningProject\LearningProject.h

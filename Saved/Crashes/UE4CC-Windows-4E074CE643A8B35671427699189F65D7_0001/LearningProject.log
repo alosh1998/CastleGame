@@ -1,0 +1,1954 @@
+﻿Log file open, 03/14/20 22:16:57
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine without a game
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: Loading recent project file: D:/Projects/UE4-Projects/LearningProject/LearningProject.uproject
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.050379
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +10:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-6600U CPU @ 2.60GHz, GPU: Intel(R) HD Graphics 520
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.03.14-11.16.58:874][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.03.14-11.16.58:874][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.03.14-11.16.58:874][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Projects/UE4-Projects/LearningProject/Saved/Config/Windows/Engine.ini]
+[2020.03.14-11.16.58:874][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.03.14-11.16.58:874][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2020.03.14-11.16.58:874][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Projects/UE4-Projects/LearningProject/Saved/Config/Windows/Engine.ini]
+[2020.03.14-11.16.58:874][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Projects/UE4-Projects/LearningProject/Saved/Config/Windows/Engine.ini]
+[2020.03.14-11.16.58:874][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.03.14-11.16.58:874][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.03.14-11.16.58:874][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.03.14-11.16.58:874][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.03.14-11.16.58:874][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.03.14-11.16.58:874][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.03.14-11.16.58:874][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.03.14-11.16.58:874][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.03.14-11.16.58:874][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.03.14-11.16.58:874][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.03.14-11.16.58:874][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.03.14-11.16.58:874][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.03.14-11.16.58:874][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.03.14-11.16.58:874][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Projects/UE4-Projects/LearningProject/Saved/Config/Windows/Engine.ini]
+[2020.03.14-11.16.58:874][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.03.14-11.16.58:874][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.03.14-11.16.58:874][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.03.14-11.16.58:874][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.03.14-11.16.58:874][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.03.14-11.16.58:874][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.03.14-11.16.58:874][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.03.14-11.16.58:874][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.03.14-11.16.58:874][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.03.14-11.16.58:874][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.03.14-11.16.58:874][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.03.14-11.16.58:874][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.03.14-11.16.58:874][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.03.14-11.16.58:874][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Projects/UE4-Projects/LearningProject/Saved/Config/Windows/Engine.ini]
+[2020.03.14-11.16.58:874][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Projects/UE4-Projects/LearningProject/Saved/Config/Windows/Engine.ini]
+[2020.03.14-11.16.58:889][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Projects/UE4-Projects/LearningProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.14-11.16.58:889][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.14-11.16.58:889][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.14-11.16.58:889][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Projects/UE4-Projects/LearningProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.14-11.16.58:889][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.14-11.16.58:889][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Projects/UE4-Projects/LearningProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.14-11.16.58:889][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.14-11.16.58:889][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.14-11.16.58:889][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.14-11.16.58:889][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.14-11.16.58:889][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.14-11.16.58:889][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.14-11.16.58:889][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.14-11.16.58:889][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.14-11.16.58:889][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.14-11.16.58:889][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.14-11.16.58:889][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.14-11.16.58:889][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.14-11.16.58:889][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.14-11.16.58:889][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.14-11.16.58:889][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.14-11.16.58:889][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.14-11.16.58:889][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.14-11.16.58:889][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.14-11.16.58:889][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Projects/UE4-Projects/LearningProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.14-11.16.58:889][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.14-11.16.58:889][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.14-11.16.58:889][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.14-11.16.58:889][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.14-11.16.58:889][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.14-11.16.58:889][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.14-11.16.58:889][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.14-11.16.58:889][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.14-11.16.58:889][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.14-11.16.58:889][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.14-11.16.58:889][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.14-11.16.58:889][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.14-11.16.58:889][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.14-11.16.58:889][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.14-11.16.58:889][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.14-11.16.58:889][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.14-11.16.58:889][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.14-11.16.58:889][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.14-11.16.58:889][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.14-11.16.58:889][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.14-11.16.58:889][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.14-11.16.58:889][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.14-11.16.58:889][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.14-11.16.58:889][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.14-11.16.58:889][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.14-11.16.58:889][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.14-11.16.58:889][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.14-11.16.58:889][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.14-11.16.58:889][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.14-11.16.58:889][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.14-11.16.58:889][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Projects/UE4-Projects/LearningProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.14-11.16.58:889][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.14-11.16.58:889][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.14-11.16.58:889][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.14-11.16.58:889][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.14-11.16.58:889][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.14-11.16.58:889][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.14-11.16.58:889][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.14-11.16.58:889][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.14-11.16.58:889][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Projects/UE4-Projects/LearningProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.14-11.16.58:889][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.14-11.16.58:889][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.14-11.16.58:889][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.14-11.16.58:889][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.14-11.16.58:889][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.14-11.16.58:889][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.14-11.16.58:889][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.14-11.16.58:889][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.14-11.16.58:889][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.14-11.16.58:889][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.14-11.16.58:889][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.14-11.16.58:889][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.14-11.16.58:889][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.14-11.16.58:889][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Projects/UE4-Projects/LearningProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.14-11.16.58:889][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.14-11.16.58:889][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.14-11.16.58:889][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.14-11.16.58:889][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.03.14-11.16.58:952][  0]LogHAL: Display: Platform has ~ 8 GB [8511578112 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.03.14-11.16.58:952][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.03.14-11.16.58:952][  0]LogInit: Going up to parent DeviceProfile []
+[2020.03.14-11.16.58:952][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [D:/Projects/UE4-Projects/LearningProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.14-11.16.58:952][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:2]]
+[2020.03.14-11.16.58:952][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.4]]
+[2020.03.14-11.16.58:952][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [D:/Projects/UE4-Projects/LearningProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.14-11.16.58:952][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:0]]
+[2020.03.14-11.16.58:952][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [D:/Projects/UE4-Projects/LearningProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.14-11.16.58:952][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:0]]
+[2020.03.14-11.16.58:952][  0]LogConfig: Setting CVar [[r.ShadowQuality:0]]
+[2020.03.14-11.16.58:952][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2020.03.14-11.16.58:952][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:512]]
+[2020.03.14-11.16.58:952][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:512]]
+[2020.03.14-11.16.58:952][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2020.03.14-11.16.58:952][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.6]]
+[2020.03.14-11.16.58:952][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2020.03.14-11.16.58:952][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2020.03.14-11.16.58:952][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2020.03.14-11.16.58:952][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2020.03.14-11.16.58:952][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2020.03.14-11.16.58:952][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:0]]
+[2020.03.14-11.16.58:952][  0]LogConfig: Setting CVar [[r.CapsuleShadows:0]]
+[2020.03.14-11.16.58:952][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [D:/Projects/UE4-Projects/LearningProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.14-11.16.58:952][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.03.14-11.16.58:952][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2020.03.14-11.16.58:952][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2020.03.14-11.16.58:952][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.03.14-11.16.58:952][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2020.03.14-11.16.58:952][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.03.14-11.16.58:952][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:300]]
+[2020.03.14-11.16.58:952][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.03.14-11.16.58:952][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.03.14-11.16.58:952][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2020.03.14-11.16.58:952][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2020.03.14-11.16.58:952][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.03.14-11.16.58:952][  0]LogConfig: Setting CVar [[r.Upscale.Quality:1]]
+[2020.03.14-11.16.58:952][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2020.03.14-11.16.58:952][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2020.03.14-11.16.58:952][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.6]]
+[2020.03.14-11.16.58:952][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:0]]
+[2020.03.14-11.16.58:952][  0]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [D:/Projects/UE4-Projects/LearningProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.14-11.16.58:952][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:16]]
+[2020.03.14-11.16.58:952][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:1]]
+[2020.03.14-11.16.58:952][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:1]]
+[2020.03.14-11.16.58:952][  0]LogConfig: Setting CVar [[r.Streaming.Boost:0.3]]
+[2020.03.14-11.16.58:952][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:0]]
+[2020.03.14-11.16.58:952][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2020.03.14-11.16.58:952][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:400]]
+[2020.03.14-11.16.58:952][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.14-11.16.58:952][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [D:/Projects/UE4-Projects/LearningProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.14-11.16.58:952][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:24]]
+[2020.03.14-11.16.58:952][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2020.03.14-11.16.58:952][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.03.14-11.16.58:952][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2020.03.14-11.16.58:952][  0]LogConfig: Setting CVar [[r.DetailMode:0]]
+[2020.03.14-11.16.58:952][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.03.14-11.16.58:952][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:0 ; Low quality]]
+[2020.03.14-11.16.58:952][  0]LogConfig: Setting CVar [[r.SSS.Scale:0]]
+[2020.03.14-11.16.58:952][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2020.03.14-11.16.58:952][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2020.03.14-11.16.58:952][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.14-11.16.58:952][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.125]]
+[2020.03.14-11.16.58:952][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2020.03.14-11.16.58:952][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [D:/Projects/UE4-Projects/LearningProject/Saved/Config/Windows/Scalability.ini]
+[2020.03.14-11.16.58:952][  0]LogConfig: Setting CVar [[foliage.DensityScale:0]]
+[2020.03.14-11.16.58:952][  0]LogConfig: Setting CVar [[grass.DensityScale:0]]
+[2020.03.14-11.16.58:952][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.03.14-11.16.58:967][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.03.14-11.16.58:967][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.03.14-11.16.58:967][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Projects/UE4-Projects/LearningProject/Saved/Config/Windows/Engine.ini]
+[2020.03.14-11.16.58:977][  0]LogInit: Computer: DESKTOP-QFQBS83
+[2020.03.14-11.16.58:977][  0]LogInit: User: alous
+[2020.03.14-11.16.58:977][  0]LogInit: CPU Page size=4096, Cores=2
+[2020.03.14-11.16.58:977][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.03.14-11.16.58:977][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.03.14-11.16.58:977][  0]LogMemory: Platform Memory Stats for Windows
+[2020.03.14-11.16.58:977][  0]LogMemory: Process Physical Memory: 96.55 MB used, 96.55 MB peak
+[2020.03.14-11.16.58:977][  0]LogMemory: Process Virtual Memory: 98.05 MB used, 98.05 MB peak
+[2020.03.14-11.16.58:978][  0]LogMemory: Physical Memory: 4640.37 MB used,  3476.90 MB free, 8117.27 MB total
+[2020.03.14-11.16.58:978][  0]LogMemory: Virtual Memory: 4635.40 MB used,  134213096.00 MB free, 134217728.00 MB total
+[2020.03.14-11.16.59:321][  0]LogInit: Using OS detected language (en-GB).
+[2020.03.14-11.16.59:321][  0]LogInit: Using OS detected locale (en-AU).
+[2020.03.14-11.16.59:324][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.03.14-11.16.59:899][  0]LogInit: Setting process to per monitor DPI aware
+[2020.03.14-11.17.00:087][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.03.14-11.17.00:087][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.03.14-11.17.04:457][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.14-11.17.04:457][  0]LogD3D11RHI: D3D11 adapters:
+[2020.03.14-11.17.05:382][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 965M' (Feature Level 11_0)
+[2020.03.14-11.17.05:382][  0]LogD3D11RHI:       2010/0/4058 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.03.14-11.17.05:423][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 520' (Feature Level 11_0)
+[2020.03.14-11.17.05:423][  0]LogD3D11RHI:       128/0/4058 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.03.14-11.17.05:427][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.03.14-11.17.05:428][  0]LogD3D11RHI:       0/0/4058 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.03.14-11.17.05:428][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.03.14-11.17.05:485][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.03.14-11.17.05:485][  0]LogD3D11RHI:     GPU DeviceId: 0x1427 (for the marketing name, search the web for "GPU Device Id")
+[2020.03.14-11.17.05:485][  0]LogWindows: EnumDisplayDevices:
+[2020.03.14-11.17.05:485][  0]LogWindows:    0. 'Intel(R) HD Graphics 520' (P:1 D:1)
+[2020.03.14-11.17.05:486][  0]LogWindows:    1. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2020.03.14-11.17.05:486][  0]LogWindows:    2. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2020.03.14-11.17.05:487][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.03.14-11.17.05:487][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 965M
+[2020.03.14-11.17.05:487][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.03.14-11.17.05:487][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.03.14-11.17.05:487][  0]LogRHI: Texture pool is 1407 MB (70% of 2010 MB)
+[2020.03.14-11.17.05:544][  0]LogD3D11RHI: Async texture creation enabled
+[2020.03.14-11.17.05:555][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.03.14-11.17.05:555][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.03.14-11.17.05:555][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.03.14-11.17.05:572][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2020.03.14-11.17.06:305][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.03.14-11.17.06:324][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.03.14-11.17.06:342][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.03.14-11.17.06:359][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.03.14-11.17.06:391][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.03.14-11.17.06:410][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.03.14-11.17.06:435][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.03.14-11.17.06:455][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.03.14-11.17.06:463][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.03.14-11.17.06:605][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.03.14-11.17.06:605][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.03.14-11.17.06:605][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.03.14-11.17.06:605][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.03.14-11.17.06:605][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.03.14-11.17.06:605][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.03.14-11.17.06:605][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.03.14-11.17.06:605][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.03.14-11.17.06:605][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.03.14-11.17.06:605][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.03.14-11.17.06:605][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.03.14-11.17.06:605][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.03.14-11.17.06:605][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.03.14-11.17.06:605][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.03.14-11.17.06:605][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.03.14-11.17.06:605][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.03.14-11.17.06:605][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.03.14-11.17.06:605][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.03.14-11.17.06:609][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.03.14-11.17.06:689][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.03.14-11.17.06:689][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.03.14-11.17.06:724][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.03.14-11.17.06:724][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.03.14-11.17.06:749][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.03.14-11.17.06:768][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.03.14-11.17.06:788][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.03.14-11.17.06:820][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.03.14-11.17.06:892][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.03.14-11.17.06:892][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.03.14-11.17.06:892][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.03.14-11.17.06:911][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.03.14-11.17.07:066][  0]LogShaderCompilers: Guid format shader working directory is 5 characters bigger than the processId version (D:/Projects/UE4-Projects/LearningProject/Intermediate/Shaders/WorkingDirectory/14116/).
+[2020.03.14-11.17.07:067][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/alous/AppData/Local/Temp/UnrealShaderWorkingDir/924E9C1944DE2F901A5B888181DDEFC3/'.
+[2020.03.14-11.17.07:070][  0]LogXGEController: Cleaning working directory: C:/Users/alous/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.03.14-11.17.07:071][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.03.14-11.17.07:071][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.03.14-11.17.07:071][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.03.14-11.17.10:584][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.03.14-11.17.10:687][  0]LogDerivedDataCache: Loaded boot cache 0.10s 71MB C:/Users/alous/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.03.14-11.17.10:687][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/alous/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.03.14-11.17.10:687][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Projects/UE4-Projects/LearningProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.03.14-11.17.10:687][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.03.14-11.17.10:687][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Projects/UE4-Projects/LearningProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.14-11.17.10:687][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.03.14-11.17.10:716][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.03.14-11.17.10:716][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.14-11.17.10:716][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.03.14-11.17.10:729][  0]LogDerivedDataCache: Using Local data cache path C:/Users/alous/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.03.14-11.17.10:729][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.03.14-11.17.10:729][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.03.14-11.17.10:766][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.03.14-11.17.10:772][  0]LogSlate: Using FreeType 2.6.0
+[2020.03.14-11.17.10:794][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.03.14-11.17.11:184][  0]LogAssetRegistry: FAssetRegistry took 0.0366 seconds to start up
+[2020.03.14-11.17.11:760][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.14-11.17.12:144][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.03.14-11.17.12:144][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.03.14-11.17.12:144][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.03.14-11.17.12:144][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.03.14-11.17.12:145][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.03.14-11.17.12:215][  0]LogNetVersion: LearningProject 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 2503646716)
+[2020.03.14-11.17.14:276][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.517051 seconds
+[2020.03.14-11.17.14:299][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.03.14-11.17.14:299][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.03.14-11.17.14:299][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.03.14-11.17.19:055][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.03.14-11.17.19:073][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.03.14-11.17.20:638][  0]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.169 s
+[2020.03.14-11.17.20:638][  0]LogOutputDevice: Error: === Handled ensure: ===
+[2020.03.14-11.17.20:638][  0]LogOutputDevice: Error: 
+[2020.03.14-11.17.20:638][  0]LogOutputDevice: Error: Ensure condition failed: AttachmentRules.LocationRule == EAttachmentRule::KeepRelative && AttachmentRules.RotationRule == EAttachmentRule::KeepRelative && AttachmentRules.ScaleRule == EAttachmentRule::KeepRelative [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\Components\SceneComponent.cpp] [Line: 1786]
+[2020.03.14-11.17.20:638][  0]LogOutputDevice: Error: AttachToComponent when called from a constructor is only setting up attachment and will always be treated as KeepRelative. Consider calling SetupAttachment directly instead.
+[2020.03.14-11.17.20:638][  0]LogOutputDevice: Error: Stack: 
+[2020.03.14-11.17.20:638][  0]LogOutputDevice: Error: [Callstack] 0x00007ffa1798cd89 UE4Editor-Engine.dll!UnknownFunction []
+[2020.03.14-11.17.20:638][  0]LogOutputDevice: Error: [Callstack] 0x00007ffa167c4fa1 UE4Editor-Engine.dll!UnknownFunction []
+[2020.03.14-11.17.20:638][  0]LogOutputDevice: Error: [Callstack] 0x00007ffa055976d0 UE4Editor-LearningProject-3772.dll!AEnemy::AEnemy() [D:\Projects\UE4-Projects\LearningProject\Source\LearningProject\Enemy.cpp:38]
+[2020.03.14-11.17.20:638][  0]LogOutputDevice: Error: [Callstack] 0x00007ffa2ba2610f UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.03.14-11.17.20:638][  0]LogOutputDevice: Error: [Callstack] 0x00007ffa2bc61056 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.03.14-11.17.20:638][  0]LogOutputDevice: Error: [Callstack] 0x00007ffa2bc4edef UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.03.14-11.17.20:638][  0]LogOutputDevice: Error: [Callstack] 0x00007ffa2ba2a727 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.03.14-11.17.20:639][  0]LogOutputDevice: Error: [Callstack] 0x00007ffa2bff4a2b UE4Editor-Core.dll!UnknownFunction []
+[2020.03.14-11.17.20:639][  0]LogOutputDevice: Error: [Callstack] 0x00007ffa2c1c5cb5 UE4Editor-Core.dll!UnknownFunction []
+[2020.03.14-11.17.20:639][  0]LogOutputDevice: Error: [Callstack] 0x00007ffa4ee88d67 UE4Editor-Projects.dll!UnknownFunction []
+[2020.03.14-11.17.20:639][  0]LogOutputDevice: Error: [Callstack] 0x00007ffa4ee88ff7 UE4Editor-Projects.dll!UnknownFunction []
+[2020.03.14-11.17.20:639][  0]LogOutputDevice: Error: [Callstack] 0x00007ff7c1a47eb1 UE4Editor.exe!UnknownFunction []
+[2020.03.14-11.17.20:639][  0]LogOutputDevice: Error: [Callstack] 0x00007ff7c1a4d671 UE4Editor.exe!UnknownFunction []
+[2020.03.14-11.17.20:639][  0]LogOutputDevice: Error: [Callstack] 0x00007ff7c1a45377 UE4Editor.exe!UnknownFunction []
+[2020.03.14-11.17.20:639][  0]LogOutputDevice: Error: [Callstack] 0x00007ff7c1a455ca UE4Editor.exe!UnknownFunction []
+[2020.03.14-11.17.20:639][  0]LogOutputDevice: Error: [Callstack] 0x00007ff7c1a5316c UE4Editor.exe!UnknownFunction []
+[2020.03.14-11.17.20:639][  0]LogOutputDevice: Error: [Callstack] 0x00007ff7c1a55b8e UE4Editor.exe!UnknownFunction []
+[2020.03.14-11.17.20:639][  0]LogOutputDevice: Error: [Callstack] 0x00007ffa7fab7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.03.14-11.17.20:639][  0]LogOutputDevice: Error: [Callstack] 0x00007ffa8084ced1 ntdll.dll!UnknownFunction []
+[2020.03.14-11.17.20:639][  0]LogOutputDevice: Error: 
+[2020.03.14-11.17.20:640][  0]LogStats:                SubmitErrorReport -  0.000 s
+[2020.03.14-11.17.21:479][  0]LogStats:                    SendNewReport -  0.838 s
+[2020.03.14-11.17.21:479][  0]LogStats:             FDebug::EnsureFailed -  2.009 s
+[2020.03.14-11.17.21:574][  0]SourceControl: Source control is disabled
+[2020.03.14-11.17.21:574][  0]SourceControl: Source control is disabled
+[2020.03.14-11.17.21:583][  0]SourceControl: Source control is disabled
+[2020.03.14-11.17.21:587][  0]SourceControl: Source control is disabled
+[2020.03.14-11.17.21:832][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.03.14-11.17.21:979][  0]LogOcInput: OculusInput pre-init called
+[2020.03.14-11.17.23:312][  0]LogEngine: Initializing Engine...
+[2020.03.14-11.17.23:314][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.14-11.17.23:317][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2020.03.14-11.17.24:060][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.03.14-11.17.24:101][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.03.14-11.17.24:131][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.14-11.17.24:191][  0]LogAudio: Error: CreateMasteringVoice error: Unhandled error code -2004287473
+[2020.03.14-11.17.24:191][  0]LogInit: Warning: Failed to create the mastering voice for XAudio2
+[2020.03.14-11.17.24:192][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.03.14-11.17.24:263][  0]LogDerivedDataCache: Saved boot cache 0.07s 71MB C:/Users/alous/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.03.14-11.17.24:278][  0]LogInit: Texture streaming: Enabled
+[2020.03.14-11.17.24:315][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.03.14-11.17.24:602][  0]LogInit: Transaction tracking system initialized
+[2020.03.14-11.17.24:672][  0]BlueprintLog: New page: Editor Load
+[2020.03.14-11.17.24:894][  0]LocalizationService: Localization service is disabled
+[2020.03.14-11.17.26:659][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.03.14-11.17.26:659][  0]LogCook: Display: Mobile HDR setting 1
+[2020.03.14-11.17.27:228][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/UE4-Projects/LearningProject/Content/' took 0.07s
+[2020.03.14-11.17.27:254][  0]SourceControl: Source control is disabled
+[2020.03.14-11.17.27:255][  0]Cmd: MAP LOAD FILE="D:/Projects/UE4-Projects/LearningProject/Content/Maps/SunTemple.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.14-11.17.27:256][  0]LightingResults: New page: Lighting Build
+[2020.03.14-11.17.27:264][  0]MapCheck: New page: Map Check
+[2020.03.14-11.17.27:264][  0]LightingResults: New page: Lighting Build
+[2020.03.14-11.17.27:302][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2020.03.14-11.17.40:495][  0]LogPackageName: Warning: Asset path "FX_Meshes.UI.SM_SelectionMesh_01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.03.14-11.17.40:495][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.03.14-11.17.40:774][  0]LogPackageName: SearchForPackageOnDisk took   0.279s, but failed to resolve FX_Meshes.
+[2020.03.14-11.17.40:774][  0]LogPackageName: Warning: Asset path "FX_Meshes.UI.SM_SelectionMesh_01" could not be resolved.
+[2020.03.14-11.17.44:749][  0]LogAIModule: Creating AISystem for world SunTemple
+[2020.03.14-11.17.44:857][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.14-11.17.46:300][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2020.03.14-11.17.46:300][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.14-11.17.46:301][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.288ms to complete.
+[2020.03.14-11.17.46:301][  0]LogFileHelpers: Loading map 'SunTemple' took 19.046
+[2020.03.14-11.17.46:894][  0]LogCollectionManager: Loaded 0 collections in 0.015292 seconds
+[2020.03.14-11.17.46:945][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/UE4-Projects/LearningProject/Saved/Collections/' took 0.01s
+[2020.03.14-11.17.46:945][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/UE4-Projects/LearningProject/Content/Developers/alous/Collections/' took 0.01s
+[2020.03.14-11.17.46:945][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/UE4-Projects/LearningProject/Content/Collections/' took 0.00s
+[2020.03.14-11.17.46:945][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.03.14-11.17.46:968][  0]LogContentBrowser: Native class hierarchy populated in 0.0213 seconds. Added 2749 classes and 662 folders.
+[2020.03.14-11.17.46:988][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2020.03.14-11.17.47:006][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.14-11.17.47:021][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.14-11.17.47:061][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.14-11.17.47:074][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.14-11.17.47:086][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.14-11.17.47:098][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.14-11.17.47:110][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.14-11.17.47:122][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.14-11.17.47:134][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.14-11.17.47:147][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.14-11.17.47:158][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.14-11.17.47:168][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.14-11.17.47:180][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.14-11.17.47:192][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.14-11.17.47:203][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.14-11.17.47:214][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.14-11.17.47:275][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.14-11.17.47:287][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.14-11.17.47:298][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.14-11.17.47:309][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.14-11.17.47:321][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.14-11.17.47:332][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.14-11.17.47:345][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.14-11.17.47:357][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.14-11.17.47:368][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.14-11.17.47:379][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.14-11.17.47:714][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2020.03.14-11.17.47:781][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.14-11.17.47:798][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.14-11.17.47:815][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.14-11.17.47:832][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.14-11.17.47:854][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2020.03.14-11.17.48:174][  0]LogSlate: Took 0.021243 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.03.14-11.17.48:190][  0]LogSlate: Took 0.011440 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.03.14-11.17.48:201][  0]LogSlate: Took 0.010329 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.03.14-11.17.48:408][  0]LogRenderer: Reallocating scene render targets to support 872x844 Format 9 NumSamples 1 (Frame:1).
+[2020.03.14-11.17.49:365][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2020.03.14-11.17.49:365][  0]LogLoad: (Engine Initialization) Total time: 62.32 seconds
+[2020.03.14-11.17.49:366][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.03.14-11.17.49:537][  0]LogContentStreaming: Texture pool size now 400 MB
+[2020.03.14-11.17.50:237][  3]LogAssetRegistry: Asset discovery search completed in 39.0746 seconds
+[2020.03.14-11.17.50:244][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2020.03.14-11.17.50:245][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000133 seconds (updated 0 objects)
+[2020.03.14-11.17.50:896][  5]LogSlate: Took 0.014111 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.14-11.18.08:465][248]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.14-11.18.08:649][250]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.14-11.18.08:675][250]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2020.03.14-11.18.08:676][250]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.14-11.18.08:679][250]PIE: New page: PIE session: SunTemple (15 Mar 2020 9:18:08 am)
+[2020.03.14-11.18.08:692][250]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SunTemple
+[2020.03.14-11.18.08:753][250]LogPlayLevel: PIE: StaticDuplicateObject took: (0.061099s)
+[2020.03.14-11.18.08:753][250]LogAIModule: Creating AISystem for world SunTemple
+[2020.03.14-11.18.08:754][250]LogPlayLevel: PIE: World Init took: (0.000777s)
+[2020.03.14-11.18.08:754][250]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SunTemple.SunTemple to /Game/Maps/UEDPIE_0_SunTemple.SunTemple (0.062415s)
+[2020.03.14-11.18.08:789][250]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2020.03.14-11.18.08:836][250]LogLoad: Game class is 'CritterGameMode_BP_C'
+[2020.03.14-11.18.08:864][250]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SunTemple.SunTemple up for play (max tick rate 60) at 2020.03.14-22.18.08
+[2020.03.14-11.18.08:870][250]LogWorld: Bringing up level for play took: 0.032026
+[2020.03.14-11.18.08:894][250]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 20 classes and 0 folders.
+[2020.03.14-11.18.08:900][250]LogTemp: Warning: Super::Overlap End.
+[2020.03.14-11.18.08:900][250]LogTemp: Warning: Super::Overlap End.
+[2020.03.14-11.18.08:905][250]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SunTemple 1.043
+[2020.03.14-11.18.08:905][250]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2020.03.14-11.18.11:579][298]LogTemp: Warning: Super::Overlap begin.
+[2020.03.14-11.18.14:363][341]LogTemp: Warning: Super::Overlap begin.
+[2020.03.14-11.18.14:363][341]LogTemp: Warning: Super::Overlap begin.
+[2020.03.14-11.18.20:033][429]LogTemp: Warning: Super::Overlap End.
+[2020.03.14-11.18.20:033][429]LogTemp: Warning: Super::Overlap End.
+[2020.03.14-11.18.20:231][432]LogTemp: Warning: Super::Overlap begin.
+[2020.03.14-11.18.20:231][432]LogTemp: Warning: Super::Overlap begin.
+[2020.03.14-11.18.21:708][455]LogTemp: Warning: Super::Overlap begin.
+[2020.03.14-11.18.21:840][457]LogTemp: Warning: Super::Overlap End.
+[2020.03.14-11.18.21:966][459]LogTemp: Warning: Super::Overlap End.
+[2020.03.14-11.18.21:966][459]LogTemp: Warning: Super::Overlap End.
+[2020.03.14-11.18.22:363][465]LogTemp: Warning: Super::Overlap begin.
+[2020.03.14-11.18.25:612][515]LogTemp: Warning: Super::Overlap begin.
+[2020.03.14-11.18.25:934][520]LogTemp: Warning: Super::Overlap begin.
+[2020.03.14-11.18.25:935][520]LogTemp: Warning: Super::Overlap End.
+[2020.03.14-11.18.25:999][521]LogTemp: Warning: Super::Overlap begin.
+[2020.03.14-11.18.26:063][522]LogTemp: Warning: Super::Overlap begin.
+[2020.03.14-11.18.26:386][527]LogTemp: Warning: Super::Overlap End.
+[2020.03.14-11.18.26:580][530]LogTemp: Warning: Super::Overlap begin.
+[2020.03.14-11.18.27:295][541]LogTemp: Warning: Super::Overlap End.
+[2020.03.14-11.18.27:482][544]LogTemp: Warning: Super::Overlap begin.
+[2020.03.14-11.18.28:573][560]LogTemp: Warning: Super::Overlap End.
+[2020.03.14-11.18.28:717][563]LogTemp: Warning: Super::Overlap begin.
+[2020.03.14-11.18.29:747][579]LogTemp: Warning: Super::Overlap End.
+[2020.03.14-11.18.29:748][579]LogTemp: Warning: Super::Overlap begin.
+[2020.03.14-11.18.29:811][580]LogTemp: Warning: Super::Overlap End.
+[2020.03.14-11.18.29:877][581]LogTemp: Warning: Super::Overlap End.
+[2020.03.14-11.18.30:138][585]LogTemp: Warning: Super::Overlap begin.
+[2020.03.14-11.18.30:139][585]LogTemp: Warning: Super::Overlap begin.
+[2020.03.14-11.18.30:595][592]LogTemp: Warning: Super::Overlap End.
+[2020.03.14-11.18.30:595][592]LogTemp: Warning: Super::Overlap End.
+[2020.03.14-11.18.31:112][600]LogTemp: Warning: Super::Overlap begin.
+[2020.03.14-11.18.31:178][601]LogTemp: Warning: Super::Overlap begin.
+[2020.03.14-11.18.31:374][604]LogTemp: Warning: Super::Overlap End.
+[2020.03.14-11.18.31:515][606]LogTemp: Warning: Super::Overlap End.
+[2020.03.14-11.18.31:574][607]LogTemp: Warning: Super::Overlap begin.
+[2020.03.14-11.18.31:639][608]LogTemp: Warning: Super::Overlap begin.
+[2020.03.14-11.18.32:740][625]LogTemp: Warning: Super::Overlap End.
+[2020.03.14-11.18.32:810][626]LogTemp: Warning: Super::Overlap End.
+[2020.03.14-11.18.32:812][626]LogTemp: Warning: Super::Overlap begin.
+[2020.03.14-11.18.32:871][627]LogTemp: Warning: Super::Overlap End.
+[2020.03.14-11.18.33:132][631]LogTemp: Warning: Super::Overlap begin.
+[2020.03.14-11.18.33:133][631]LogTemp: Warning: Super::Overlap begin.
+[2020.03.14-11.18.33:518][637]LogTemp: Warning: Super::Overlap End.
+[2020.03.14-11.18.33:518][637]LogTemp: Warning: Super::Overlap End.
+[2020.03.14-11.18.33:781][641]LogTemp: Warning: Super::Overlap begin.
+[2020.03.14-11.18.33:782][641]LogTemp: Warning: Super::Overlap begin.
+[2020.03.14-11.18.35:655][670]LogTemp: Warning: Super::Overlap End.
+[2020.03.14-11.18.35:717][671]LogTemp: Warning: Super::Overlap End.
+[2020.03.14-11.18.36:689][686]LogTemp: Warning: Super::Overlap End.
+[2020.03.14-11.18.40:202][740]LogTemp: Warning: Super::Overlap begin.
+[2020.03.14-11.18.40:912][751]LogTemp: Warning: Super::Overlap begin.
+[2020.03.14-11.18.40:912][751]LogTemp: Warning: Super::Overlap begin.
+[2020.03.14-11.18.40:912][751]LogTemp: Warning: APickup::Overlap begin.
+[2020.03.14-11.18.41:296][757]LogTemp: Warning: Super::Overlap begin.
+[2020.03.14-11.18.41:296][757]LogTemp: Warning: APickup::Overlap begin.
+[2020.03.14-11.18.41:296][757]LogTemp: Warning: Super::Overlap End.
+[2020.03.14-11.18.41:296][757]LogTemp: Warning: APickup::Overlap End.
+[2020.03.14-11.18.41:296][757]LogTemp: Warning: Super::Overlap End.
+[2020.03.14-11.18.41:296][757]LogTemp: Warning: Super::Overlap End.
+[2020.03.14-11.18.41:296][757]LogTemp: Warning: APickup::Overlap End.
+[2020.03.14-11.18.41:492][760]LogTemp: Warning: Super::Overlap End.
+[2020.03.14-11.18.41:562][761]LogTemp: Warning: Super::Overlap begin.
+[2020.03.14-11.18.43:615][793]LogTemp: Warning: Super::Overlap End.
+[2020.03.14-11.18.43:678][794]LogTemp: Warning: Super::Overlap begin.
+[2020.03.14-11.18.43:678][794]LogTemp: Warning: Super::Overlap begin.
+[2020.03.14-11.18.43:678][794]LogTemp: Warning: Overlap begin.
+[2020.03.14-11.18.43:812][796]LogTemp: Warning: Super::Overlap begin.
+[2020.03.14-11.18.43:813][796]LogTemp: Warning: Overlap begin.
+[2020.03.14-11.18.43:813][796]LogTemp: Warning: Super::Overlap End.
+[2020.03.14-11.18.43:813][796]LogTemp: Warning: Overlap End.
+[2020.03.14-11.18.43:814][796]LogTemp: Warning: Super::Overlap End.
+[2020.03.14-11.18.43:814][796]LogTemp: Warning: Super::Overlap End.
+[2020.03.14-11.18.43:814][796]LogTemp: Warning: Overlap End.
+[2020.03.14-11.18.44:064][800]LogTemp: Warning: Super::Overlap begin.
+[2020.03.14-11.18.44:064][800]LogTemp: Warning: Super::Overlap begin.
+[2020.03.14-11.18.44:065][800]LogTemp: Warning: Overlap begin.
+[2020.03.14-11.18.44:199][802]LogTemp: Warning: Super::Overlap begin.
+[2020.03.14-11.18.44:200][802]LogTemp: Warning: Overlap begin.
+[2020.03.14-11.18.44:201][802]LogTemp: Warning: Super::Overlap End.
+[2020.03.14-11.18.44:201][802]LogTemp: Warning: Overlap End.
+[2020.03.14-11.18.44:202][802]LogTemp: Warning: Super::Overlap End.
+[2020.03.14-11.18.44:202][802]LogTemp: Warning: Super::Overlap End.
+[2020.03.14-11.18.44:202][802]LogTemp: Warning: Overlap End.
+[2020.03.14-11.18.44:778][811]LogTemp: Warning: Super::Overlap begin.
+[2020.03.14-11.18.45:231][818]LogTemp: Warning: Super::Overlap End.
+[2020.03.14-11.18.46:644][840]LogTemp: Warning: Super::Overlap begin.
+[2020.03.14-11.18.46:967][845]LogTemp: Warning: Super::Overlap End.
+[2020.03.14-11.18.47:287][850]LogTemp: Warning: Super::Overlap begin.
+[2020.03.14-11.18.47:288][850]LogTemp: Warning: Super::Overlap begin.
+[2020.03.14-11.18.47:288][850]LogTemp: Warning: APickup::Overlap begin.
+[2020.03.14-11.18.47:419][852]LogTemp: Warning: Super::Overlap End.
+[2020.03.14-11.18.47:420][852]LogTemp: Warning: Super::Overlap End.
+[2020.03.14-11.18.47:420][852]LogTemp: Warning: APickup::Overlap End.
+[2020.03.14-11.18.51:034][908]LogTemp: Warning: Super::Overlap begin.
+[2020.03.14-11.18.51:034][908]LogTemp: Warning: Super::Overlap begin.
+[2020.03.14-11.18.51:035][908]LogTemp: Warning: APickup::Overlap begin.
+[2020.03.14-11.18.51:294][912]LogTemp: Warning: Super::Overlap End.
+[2020.03.14-11.18.51:295][912]LogTemp: Warning: Super::Overlap End.
+[2020.03.14-11.18.51:295][912]LogTemp: Warning: APickup::Overlap End.
+[2020.03.14-11.18.51:421][914]LogTemp: Warning: Super::Overlap begin.
+[2020.03.14-11.18.51:421][914]LogTemp: Warning: Super::Overlap begin.
+[2020.03.14-11.18.51:421][914]LogTemp: Warning: APickup::Overlap begin.
+[2020.03.14-11.18.51:551][916]LogTemp: Warning: Super::Overlap begin.
+[2020.03.14-11.18.51:551][916]LogTemp: Warning: APickup::Overlap begin.
+[2020.03.14-11.18.51:552][916]LogTemp: Warning: Super::Overlap End.
+[2020.03.14-11.18.51:552][916]LogTemp: Warning: APickup::Overlap End.
+[2020.03.14-11.18.51:552][916]LogTemp: Warning: Super::Overlap End.
+[2020.03.14-11.18.51:552][916]LogTemp: Warning: Super::Overlap End.
+[2020.03.14-11.18.51:552][916]LogTemp: Warning: APickup::Overlap End.
+[2020.03.14-11.18.55:031][970]LogTemp: Warning: Super::Overlap begin.
+[2020.03.14-11.18.55:670][980]LogTemp: Warning: Super::Overlap begin.
+[2020.03.14-11.18.55:739][981]LogTemp: Warning: Super::Overlap begin.
+[2020.03.14-11.18.55:740][981]LogTemp: Warning: Super::Overlap End.
+[2020.03.14-11.18.55:864][983]LogTemp: Warning: Super::Overlap End.
+[2020.03.14-11.18.55:928][984]LogTemp: Warning: Super::Overlap End.
+[2020.03.14-11.18.57:668][ 11]LogTemp: Warning: Super::Overlap begin.
+[2020.03.14-11.18.57:860][ 14]LogTemp: Warning: Super::Overlap begin.
+[2020.03.14-11.18.57:924][ 15]LogTemp: Warning: Super::Overlap begin.
+[2020.03.14-11.18.58:951][ 31]LogTemp: Warning: Super::Overlap End.
+[2020.03.14-11.18.58:951][ 31]LogTemp: Warning: Super::Overlap begin.
+[2020.03.14-11.18.59:015][ 32]LogTemp: Warning: Super::Overlap End.
+[2020.03.14-11.18.59:081][ 33]LogTemp: Warning: Super::Overlap End.
+[2020.03.14-11.18.59:852][ 45]LogTemp: Warning: Super::Overlap begin.
+[2020.03.14-11.18.59:916][ 46]LogTemp: Warning: Super::Overlap End.
+[2020.03.14-11.18.59:917][ 46]LogTemp: Warning: Super::Overlap begin.
+[2020.03.14-11.18.59:981][ 47]LogTemp: Warning: Super::Overlap End.
+[2020.03.14-11.18.59:981][ 47]LogTemp: Warning: Super::Overlap begin.
+[2020.03.14-11.19.00:108][ 49]LogTemp: Warning: Super::Overlap begin.
+[2020.03.14-11.19.00:685][ 58]LogTemp: Warning: Super::Overlap End.
+[2020.03.14-11.19.00:881][ 61]LogTemp: Warning: Super::Overlap begin.
+[2020.03.14-11.19.01:903][ 77]LogTemp: Warning: Super::Overlap End.
+[2020.03.14-11.19.02:097][ 80]LogTemp: Warning: Super::Overlap begin.
+[2020.03.14-11.19.03:120][ 96]LogTemp: Warning: Super::Overlap End.
+[2020.03.14-11.19.03:312][ 99]LogTemp: Warning: Super::Overlap begin.
+[2020.03.14-11.19.04:337][115]LogTemp: Warning: Super::Overlap End.
+[2020.03.14-11.19.04:401][116]LogTemp: Warning: Super::Overlap End.
+[2020.03.14-11.19.05:173][128]LogTemp: Warning: Super::Overlap begin.
+[2020.03.14-11.19.05:302][130]LogTemp: Warning: Super::Overlap begin.
+[2020.03.14-11.19.06:971][156]LogTemp: Warning: Super::Overlap End.
+[2020.03.14-11.19.07:099][158]LogTemp: Warning: Super::Overlap End.
+[2020.03.14-11.19.08:062][173]LogTemp: Warning: Super::Overlap begin.
+[2020.03.14-11.19.08:126][174]LogTemp: Warning: Super::Overlap begin.
+[2020.03.14-11.19.09:027][188]LogTemp: Warning: Super::Overlap End.
+[2020.03.14-11.19.09:027][188]LogTemp: Warning: Super::Overlap End.
+[2020.03.14-11.19.09:092][189]LogTemp: Warning: Super::Overlap begin.
+[2020.03.14-11.19.09:284][192]LogTemp: Warning: Super::Overlap End.
+[2020.03.14-11.19.09:349][193]LogTemp: Warning: Super::Overlap begin.
+[2020.03.14-11.19.09:349][193]LogTemp: Warning: Super::Overlap begin.
+[2020.03.14-11.19.09:733][199]LogTemp: Warning: Super::Overlap End.
+[2020.03.14-11.19.09:734][199]LogTemp: Warning: Super::Overlap End.
+[2020.03.14-11.19.09:862][200]LogTemp: Warning: Super::Overlap begin.
+[2020.03.14-11.19.10:118][205]LogTemp: Warning: Super::Overlap begin.
+[2020.03.14-11.19.10:120][205]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2020.03.14-11.19.10:120][205]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.14-11.19.10:223][205]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.14-11.19.10:224][205]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2020.03.14-11.19.10:257][205]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.14-11.19.10:265][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2020.03.14-11.19.10:371][206]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2020.03.14-11.19.21:119][395]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.14-11.19.26:544][480]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture58)
+[2020.03.14-11.19.35:029][893]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.14-11.19.39:746][129]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_RailingPillar_13)
+[2020.03.14-11.22.52:869][270]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.14-11.58.20:903][700]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.14-11.58.25:530][768]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.14-11.58.25:747][770]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Character/Main_BP.Main_BP
+[2020.03.14-11.58.27:273][770]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0092 seconds. Added 121 classes and 0 folders.
+[2020.03.14-11.58.30:377][770]LogSlate: Took 0.011843 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.03.14-11.58.30:655][771]LogSlate: Took 0.010447 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.03.14-12.05.08:181][223]LogHotReload: New module detected: UE4Editor-LearningProject-0051.dll
+[2020.03.14-12.05.13:574][240]LogHotReload: Starting Hot-Reload from IDE
+[2020.03.14-12.05.13:787][240]LogUObjectHash: Compacting FUObjectHashTables data took  13.30ms
+[2020.03.14-12.05.13:789][240]LogBlueprintActionDatabase: Requesting refresh due to module change: LearningProject (unloaded)
+[2020.03.14-12.05.13:975][240]LogClass: Could not find existing class Main in package /Script/LearningProject for HotReload, assuming new class
+[2020.03.14-12.05.13:975][240]LogClass: Function AttackEnd is new.
+[2020.03.14-12.05.13:975][240]LogClass: Function PlaySwingSound is new.
+[2020.03.14-12.05.13:975][240]LogClass: Function ShowPickupLcoations is new.
+[2020.03.14-12.05.13:997][240]LogClass: EEnemyMovmentStatus HotReload.
+[2020.03.14-12.05.13:997][240]LogClass: EStaminaStatus HotReload.
+[2020.03.14-12.05.13:997][240]LogClass: EMovementStatus HotReload.
+[2020.03.14-12.05.13:997][240]LogClass: EWeaponState HotReload.
+[2020.03.14-12.05.14:056][240]LogHotReload: Re-instancing Main after hot-reload.
+[2020.03.14-12.05.14:238][240]LogScript: Warning: Attempted to access missing property 'MovementStatus'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	MainAnime_BP_C /Engine/Transient.World_0:PersistentLevel.Main_BP_C_0.CharacterMesh0.MainAnime_BP_C_0
+	Function /Game/Character/Animation/MainAnime_BP.MainAnime_BP_C:ExecuteUbergraph_MainAnime_BP:02C8
+[2020.03.14-12.05.14:238][240]LogScript: Warning: Attempted to access missing property 'EquipedWeapon'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	MainAnime_BP_C /Engine/Transient.World_0:PersistentLevel.Main_BP_C_0.CharacterMesh0.MainAnime_BP_C_0
+	Function /Game/Character/Animation/MainAnime_BP.MainAnime_BP_C:ExecuteUbergraph_MainAnime_BP:0254
+[2020.03.14-12.05.14:244][240]LogScript: Warning: Attempted to access missing property 'MovementStatus'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	MainAnime_BP_C /Engine/Transient.World_0:PersistentLevel.Main_BP_C_0.CharacterMesh0.MainAnime_BP_C_1
+	Function /Game/Character/Animation/MainAnime_BP.MainAnime_BP_C:ExecuteUbergraph_MainAnime_BP:02C8
+[2020.03.14-12.05.14:245][240]LogScript: Warning: Attempted to access missing property 'EquipedWeapon'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	MainAnime_BP_C /Engine/Transient.World_0:PersistentLevel.Main_BP_C_0.CharacterMesh0.MainAnime_BP_C_1
+	Function /Game/Character/Animation/MainAnime_BP.MainAnime_BP_C:ExecuteUbergraph_MainAnime_BP:0254
+[2020.03.14-12.05.14:248][240]LogScript: Warning: Attempted to access missing property 'MovementStatus'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	MainAnime_BP_C /Engine/Transient.World_1:PersistentLevel.Main_BP_C_0.CharacterMesh0.MainAnime_BP_C_0
+	Function /Game/Character/Animation/MainAnime_BP.MainAnime_BP_C:ExecuteUbergraph_MainAnime_BP:02C8
+[2020.03.14-12.05.14:248][240]LogScript: Warning: Attempted to access missing property 'EquipedWeapon'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	MainAnime_BP_C /Engine/Transient.World_1:PersistentLevel.Main_BP_C_0.CharacterMesh0.MainAnime_BP_C_0
+	Function /Game/Character/Animation/MainAnime_BP.MainAnime_BP_C:ExecuteUbergraph_MainAnime_BP:0254
+[2020.03.14-12.05.14:254][240]LogScript: Warning: Attempted to access missing property 'MovementStatus'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	MainAnime_BP_C /Engine/Transient.World_1:PersistentLevel.Main_BP_C_0.CharacterMesh0.MainAnime_BP_C_1
+	Function /Game/Character/Animation/MainAnime_BP.MainAnime_BP_C:ExecuteUbergraph_MainAnime_BP:02C8
+[2020.03.14-12.05.14:255][240]LogScript: Warning: Attempted to access missing property 'EquipedWeapon'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	MainAnime_BP_C /Engine/Transient.World_1:PersistentLevel.Main_BP_C_0.CharacterMesh0.MainAnime_BP_C_1
+	Function /Game/Character/Animation/MainAnime_BP.MainAnime_BP_C:ExecuteUbergraph_MainAnime_BP:0254
+[2020.03.14-12.05.14:646][240]LogScript: Warning: Attempted to access missing property 'MovementStatus'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	MainAnime_BP_C /Engine/Transient.World_0:PersistentLevel.Main_BP_C_0.CharacterMesh0.MainAnime_BP_C_1
+	Function /Game/Character/Animation/MainAnime_BP.MainAnime_BP_C:ExecuteUbergraph_MainAnime_BP:02C8
+[2020.03.14-12.05.14:646][240]LogScript: Warning: Attempted to access missing property 'EquipedWeapon'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	MainAnime_BP_C /Engine/Transient.World_0:PersistentLevel.Main_BP_C_0.CharacterMesh0.MainAnime_BP_C_1
+	Function /Game/Character/Animation/MainAnime_BP.MainAnime_BP_C:ExecuteUbergraph_MainAnime_BP:0254
+[2020.03.14-12.05.14:647][240]LogScript: Warning: Attempted to access missing property 'MovementStatus'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	MainAnime_BP_C /Engine/Transient.World_1:PersistentLevel.Main_BP_C_0.CharacterMesh0.MainAnime_BP_C_1
+	Function /Game/Character/Animation/MainAnime_BP.MainAnime_BP_C:ExecuteUbergraph_MainAnime_BP:02C8
+[2020.03.14-12.05.14:647][240]LogScript: Warning: Attempted to access missing property 'EquipedWeapon'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	MainAnime_BP_C /Engine/Transient.World_1:PersistentLevel.Main_BP_C_0.CharacterMesh0.MainAnime_BP_C_1
+	Function /Game/Character/Animation/MainAnime_BP.MainAnime_BP_C:ExecuteUbergraph_MainAnime_BP:0254
+[2020.03.14-12.05.14:650][240]LogScript: Warning: Attempted to access missing property 'MovementStatus'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	MainAnime_BP_C /Engine/Transient.World_0:PersistentLevel.Main_BP_C_1.CharacterMesh0.MainAnime_BP_C_0
+	Function /Game/Character/Animation/MainAnime_BP.MainAnime_BP_C:ExecuteUbergraph_MainAnime_BP:02C8
+[2020.03.14-12.05.14:652][240]LogScript: Warning: Attempted to access missing property 'EquipedWeapon'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	MainAnime_BP_C /Engine/Transient.World_0:PersistentLevel.Main_BP_C_1.CharacterMesh0.MainAnime_BP_C_0
+	Function /Game/Character/Animation/MainAnime_BP.MainAnime_BP_C:ExecuteUbergraph_MainAnime_BP:0254
+[2020.03.14-12.05.14:664][240]LogScript: Warning: Attempted to access missing property 'MovementStatus'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	MainAnime_BP_C /Engine/Transient.World_1:PersistentLevel.Main_BP_C_0.CharacterMesh0.MainAnime_BP_C_1
+	Function /Game/Character/Animation/MainAnime_BP.MainAnime_BP_C:ExecuteUbergraph_MainAnime_BP:02C8
+[2020.03.14-12.05.14:664][240]LogScript: Warning: Attempted to access missing property 'EquipedWeapon'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	MainAnime_BP_C /Engine/Transient.World_1:PersistentLevel.Main_BP_C_0.CharacterMesh0.MainAnime_BP_C_1
+	Function /Game/Character/Animation/MainAnime_BP.MainAnime_BP_C:ExecuteUbergraph_MainAnime_BP:0254
+[2020.03.14-12.05.14:667][240]LogScript: Warning: Attempted to access missing property 'MovementStatus'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	MainAnime_BP_C /Engine/Transient.World_0:PersistentLevel.Main_BP_C_1.CharacterMesh0.MainAnime_BP_C_0
+	Function /Game/Character/Animation/MainAnime_BP.MainAnime_BP_C:ExecuteUbergraph_MainAnime_BP:02C8
+[2020.03.14-12.05.14:667][240]LogScript: Warning: Attempted to access missing property 'EquipedWeapon'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	MainAnime_BP_C /Engine/Transient.World_0:PersistentLevel.Main_BP_C_1.CharacterMesh0.MainAnime_BP_C_0
+	Function /Game/Character/Animation/MainAnime_BP.MainAnime_BP_C:ExecuteUbergraph_MainAnime_BP:0254
+[2020.03.14-12.05.15:005][240]LogBlueprintActionDatabase: Requesting refresh due to module change: LearningProject (loaded)
+[2020.03.14-12.05.15:006][240]LogContentBrowser: Native class hierarchy updated for 'LearningProject' in 0.0006 seconds. Added 17 classes and 3 folders.
+[2020.03.14-12.05.15:012][240]Display: HotReload successful (24 functions remapped  0 scriptstructs remapped)
+[2020.03.14-12.05.15:347][240]LogUObjectHash: Compacting FUObjectHashTables data took   6.09ms
+[2020.03.14-12.05.15:347][240]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2020.03.14-12.05.15:367][240]LogContentBrowser: Native class hierarchy populated in 0.0197 seconds. Added 2750 classes and 664 folders.
+[2020.03.14-12.05.15:391][240]Display: HotReload took  1.8s.
+[2020.03.14-12.05.16:143][240]LogScript: Warning: Attempted to access missing property 'MovementStatus'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	MainAnime_BP_C /Engine/Transient.World_1:PersistentLevel.Main_BP_C_0.CharacterMesh0.MainAnime_BP_C_1
+	Function /Game/Character/Animation/MainAnime_BP.MainAnime_BP_C:ExecuteUbergraph_MainAnime_BP:02C8
+[2020.03.14-12.05.16:144][240]LogScript: Warning: Attempted to access missing property 'EquipedWeapon'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	MainAnime_BP_C /Engine/Transient.World_1:PersistentLevel.Main_BP_C_0.CharacterMesh0.MainAnime_BP_C_1
+	Function /Game/Character/Animation/MainAnime_BP.MainAnime_BP_C:ExecuteUbergraph_MainAnime_BP:0254
+[2020.03.14-12.05.16:160][241]LogScript: Warning: Attempted to access missing property 'MovementStatus'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	MainAnime_BP_C /Engine/Transient.World_1:PersistentLevel.Main_BP_C_0.CharacterMesh0.MainAnime_BP_C_1
+	Function /Game/Character/Animation/MainAnime_BP.MainAnime_BP_C:ExecuteUbergraph_MainAnime_BP:02C8
+[2020.03.14-12.05.16:160][241]LogScript: Warning: Attempted to access missing property 'EquipedWeapon'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	MainAnime_BP_C /Engine/Transient.World_1:PersistentLevel.Main_BP_C_0.CharacterMesh0.MainAnime_BP_C_1
+	Function /Game/Character/Animation/MainAnime_BP.MainAnime_BP_C:ExecuteUbergraph_MainAnime_BP:0254
+[2020.03.14-12.05.16:525][243]LogScript: Warning: Attempted to access missing property 'MovementStatus'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	MainAnime_BP_C /Engine/Transient.World_1:PersistentLevel.Main_BP_C_0.CharacterMesh0.MainAnime_BP_C_1
+	Function /Game/Character/Animation/MainAnime_BP.MainAnime_BP_C:ExecuteUbergraph_MainAnime_BP:02C8
+[2020.03.14-12.05.16:527][243]LogScript: Warning: Attempted to access missing property 'EquipedWeapon'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	MainAnime_BP_C /Engine/Transient.World_1:PersistentLevel.Main_BP_C_0.CharacterMesh0.MainAnime_BP_C_1
+	Function /Game/Character/Animation/MainAnime_BP.MainAnime_BP_C:ExecuteUbergraph_MainAnime_BP:0254
+[2020.03.14-12.05.16:874][244]LogScript: Warning: Attempted to access missing property 'MovementStatus'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	MainAnime_BP_C /Engine/Transient.World_1:PersistentLevel.Main_BP_C_0.CharacterMesh0.MainAnime_BP_C_1
+	Function /Game/Character/Animation/MainAnime_BP.MainAnime_BP_C:ExecuteUbergraph_MainAnime_BP:02C8
+[2020.03.14-12.05.16:875][244]LogScript: Warning: Attempted to access missing property 'EquipedWeapon'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	MainAnime_BP_C /Engine/Transient.World_1:PersistentLevel.Main_BP_C_0.CharacterMesh0.MainAnime_BP_C_1
+	Function /Game/Character/Animation/MainAnime_BP.MainAnime_BP_C:ExecuteUbergraph_MainAnime_BP:0254
+[2020.03.14-12.05.17:194][245]LogScript: Warning: Attempted to access missing property 'MovementStatus'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	MainAnime_BP_C /Engine/Transient.World_1:PersistentLevel.Main_BP_C_0.CharacterMesh0.MainAnime_BP_C_1
+	Function /Game/Character/Animation/MainAnime_BP.MainAnime_BP_C:ExecuteUbergraph_MainAnime_BP:02C8
+[2020.03.14-12.05.17:207][245]LogScript: Warning: Attempted to access missing property 'EquipedWeapon'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	MainAnime_BP_C /Engine/Transient.World_1:PersistentLevel.Main_BP_C_0.CharacterMesh0.MainAnime_BP_C_1
+	Function /Game/Character/Animation/MainAnime_BP.MainAnime_BP_C:ExecuteUbergraph_MainAnime_BP:0254
+[2020.03.14-12.05.17:539][246]LogScript: Warning: Attempted to access missing property 'MovementStatus'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	MainAnime_BP_C /Engine/Transient.World_1:PersistentLevel.Main_BP_C_0.CharacterMesh0.MainAnime_BP_C_1
+	Function /Game/Character/Animation/MainAnime_BP.MainAnime_BP_C:ExecuteUbergraph_MainAnime_BP:02C8
+[2020.03.14-12.05.17:551][246]LogScript: Warning: Attempted to access missing property 'EquipedWeapon'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	MainAnime_BP_C /Engine/Transient.World_1:PersistentLevel.Main_BP_C_0.CharacterMesh0.MainAnime_BP_C_1
+	Function /Game/Character/Animation/MainAnime_BP.MainAnime_BP_C:ExecuteUbergraph_MainAnime_BP:0254
+[2020.03.14-12.05.17:866][247]LogScript: Warning: Attempted to access missing property 'MovementStatus'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	MainAnime_BP_C /Engine/Transient.World_1:PersistentLevel.Main_BP_C_0.CharacterMesh0.MainAnime_BP_C_1
+	Function /Game/Character/Animation/MainAnime_BP.MainAnime_BP_C:ExecuteUbergraph_MainAnime_BP:02C8
+[2020.03.14-12.05.17:867][247]LogScript: Warning: Attempted to access missing property 'EquipedWeapon'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	MainAnime_BP_C /Engine/Transient.World_1:PersistentLevel.Main_BP_C_0.CharacterMesh0.MainAnime_BP_C_1
+	Function /Game/Character/Animation/MainAnime_BP.MainAnime_BP_C:ExecuteUbergraph_MainAnime_BP:0254
+[2020.03.14-12.05.18:202][248]LogScript: Warning: Attempted to access missing property 'MovementStatus'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	MainAnime_BP_C /Engine/Transient.World_1:PersistentLevel.Main_BP_C_0.CharacterMesh0.MainAnime_BP_C_1
+	Function /Game/Character/Animation/MainAnime_BP.MainAnime_BP_C:ExecuteUbergraph_MainAnime_BP:02C8
+[2020.03.14-12.05.18:202][248]LogScript: Warning: Attempted to access missing property 'EquipedWeapon'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	MainAnime_BP_C /Engine/Transient.World_1:PersistentLevel.Main_BP_C_0.CharacterMesh0.MainAnime_BP_C_1
+	Function /Game/Character/Animation/MainAnime_BP.MainAnime_BP_C:ExecuteUbergraph_MainAnime_BP:0254
+[2020.03.14-12.05.18:543][249]LogScript: Warning: Attempted to access missing property 'MovementStatus'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	MainAnime_BP_C /Engine/Transient.World_1:PersistentLevel.Main_BP_C_0.CharacterMesh0.MainAnime_BP_C_1
+	Function /Game/Character/Animation/MainAnime_BP.MainAnime_BP_C:ExecuteUbergraph_MainAnime_BP:02C8
+[2020.03.14-12.05.33:829][332]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.14-12.05.34:269][332]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2020.03.14-12.05.34:270][332]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.14-12.05.34:273][332]PIE: New page: PIE session: SunTemple (15 Mar 2020 10:05:34 am)
+[2020.03.14-12.05.34:274][332]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SunTemple
+[2020.03.14-12.05.34:510][332]LogPlayLevel: PIE: StaticDuplicateObject took: (0.236713s)
+[2020.03.14-12.05.34:513][332]LogAIModule: Creating AISystem for world SunTemple
+[2020.03.14-12.05.34:516][332]LogPlayLevel: PIE: World Init took: (0.005328s)
+[2020.03.14-12.05.34:518][332]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SunTemple.SunTemple to /Game/Maps/UEDPIE_0_SunTemple.SunTemple (0.244881s)
+[2020.03.14-12.05.34:652][332]LogUObjectHash: Compacting FUObjectHashTables data took   8.96ms
+[2020.03.14-12.05.34:732][332]LogLoad: Game class is 'CritterGameMode_BP_C'
+[2020.03.14-12.05.34:807][332]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SunTemple.SunTemple up for play (max tick rate 60) at 2020.03.14-23.05.34
+[2020.03.14-12.05.34:811][332]LogWorld: Bringing up level for play took: 0.075608
+[2020.03.14-12.05.34:832][332]LogScript: Warning: Attempted to access missing property 'MovementStatus'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	MainAnime_BP_C /Game/Maps/UEDPIE_0_SunTemple.SunTemple:PersistentLevel.Main_BP_C_0.CharacterMesh0.MainAnime_BP_C_0
+	Function /Game/Character/Animation/MainAnime_BP.MainAnime_BP_C:ExecuteUbergraph_MainAnime_BP:02C8
+[2020.03.14-12.05.34:833][332]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'MovementStatus'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  MainAnime_BP Function:  Execute Ubergraph Main Anime BP Graph:  Transition Node:  Result
+[2020.03.14-12.05.34:833][332]LogScript: Warning: Attempted to access missing property 'EquipedWeapon'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	MainAnime_BP_C /Game/Maps/UEDPIE_0_SunTemple.SunTemple:PersistentLevel.Main_BP_C_0.CharacterMesh0.MainAnime_BP_C_0
+	Function /Game/Character/Animation/MainAnime_BP.MainAnime_BP_C:ExecuteUbergraph_MainAnime_BP:0254
+[2020.03.14-12.05.34:833][332]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'EquipedWeapon'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  MainAnime_BP Function:  Execute Ubergraph Main Anime BP Graph:  Transition Node:  Result
+[2020.03.14-12.05.34:838][332]LogTemp: Warning: Super::Overlap End.
+[2020.03.14-12.05.34:838][332]LogTemp: Warning: Super::Overlap End.
+[2020.03.14-12.05.34:846][332]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SunTemple 0.984
+[2020.03.14-12.05.34:847][332]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/SunTemple.SunTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple' with GeneratedClass '/Game/Maps/SunTemple.SunTemple_C' with ClassGeneratedBy '/Game/Maps/SunTemple.SunTemple:PersistentLevel.SunTemple'
+[2020.03.14-12.05.34:876][332]LogScript: Warning: Attempted to access missing property 'Coins'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	Coins_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.HUDOverlay_C_0.WidgetTree_0.Coins
+	Function /Game/HUD/Coins.Coins_C:GetText:009C
+[2020.03.14-12.05.34:883][332]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.34:883][332]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.35:234][333]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.35:234][333]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.35:251][334]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.35:252][334]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.35:268][335]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.35:269][335]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.35:327][336]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.35:327][336]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.35:416][337]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.35:416][337]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.35:458][338]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.35:458][338]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.35:529][339]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.35:529][339]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.35:590][340]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.35:590][340]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.35:656][341]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.35:657][341]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.35:716][342]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.35:717][342]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.35:777][343]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.35:777][343]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.35:843][344]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.35:843][344]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.35:911][345]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.35:912][345]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.36:024][346]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.36:025][346]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.36:047][347]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.36:047][347]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.36:101][348]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.36:102][348]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.36:168][349]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.36:169][349]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.36:231][350]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.36:232][350]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.36:301][351]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.36:301][351]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.36:366][352]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.36:367][352]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.36:430][353]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.36:430][353]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.36:496][354]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.36:496][354]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.36:574][355]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.36:574][355]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.36:626][356]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.36:626][356]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.36:691][357]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.36:692][357]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.36:758][358]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.36:759][358]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.36:821][359]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.36:821][359]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.36:879][360]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.36:879][360]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.36:943][361]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.36:943][361]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.37:006][362]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.37:006][362]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.37:055][363]LogTemp: Warning: Super::Overlap begin.
+[2020.03.14-12.05.37:070][363]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.37:070][363]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.37:135][364]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.37:135][364]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.37:198][365]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.37:199][365]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.37:263][366]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.37:263][366]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.37:327][367]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.37:327][367]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.37:395][368]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.37:395][368]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.37:460][369]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.37:460][369]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.37:526][370]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.37:526][370]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.37:592][371]LogScript: Warning: Attempted to access missing property 'MovementStatus'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	MainAnime_BP_C /Game/Maps/UEDPIE_0_SunTemple.SunTemple:PersistentLevel.Main_BP_C_0.CharacterMesh0.MainAnime_BP_C_0
+	Function /Game/Character/Animation/MainAnime_BP.MainAnime_BP_C:ExecuteUbergraph_MainAnime_BP:02C8
+[2020.03.14-12.05.37:592][371]LogScript: Warning: Attempted to access missing property 'EquipedWeapon'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	MainAnime_BP_C /Game/Maps/UEDPIE_0_SunTemple.SunTemple:PersistentLevel.Main_BP_C_0.CharacterMesh0.MainAnime_BP_C_0
+	Function /Game/Character/Animation/MainAnime_BP.MainAnime_BP_C:ExecuteUbergraph_MainAnime_BP:0254
+[2020.03.14-12.05.37:592][371]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.37:592][371]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.37:647][372]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.37:647][372]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.37:709][373]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.37:709][373]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.37:776][374]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.37:777][374]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.37:848][375]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.37:849][375]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.37:913][376]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.37:913][376]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.37:979][377]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.37:979][377]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.38:039][378]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.38:040][378]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.38:101][379]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.38:101][379]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.38:167][380]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.38:167][380]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.38:232][381]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.38:232][381]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.38:295][382]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.38:296][382]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.38:360][383]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.38:361][383]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.38:427][384]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.38:427][384]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.38:490][385]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.38:491][385]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.38:555][386]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.38:556][386]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.38:621][387]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.38:621][387]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.38:687][388]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.38:687][388]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.38:744][389]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.38:744][389]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.38:802][390]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.38:802][390]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.38:870][391]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.38:871][391]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.38:940][392]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.38:940][392]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.39:012][393]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.39:013][393]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.39:068][394]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.39:068][394]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.39:132][395]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.39:132][395]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.39:197][396]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.39:197][396]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.39:261][397]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.39:262][397]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.39:330][398]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.39:330][398]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.39:393][399]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.39:393][399]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.39:461][400]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.39:461][400]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.39:528][401]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.39:528][401]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.39:592][402]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.39:593][402]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.39:660][403]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.39:660][403]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.39:723][404]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.39:723][404]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.39:788][405]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.39:788][405]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.39:847][406]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.39:847][406]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.39:919][407]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.39:920][407]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.39:985][408]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.39:986][408]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.40:049][409]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.40:050][409]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.40:115][410]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.40:115][410]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.40:178][411]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.40:178][411]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.40:247][412]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.40:247][412]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.40:309][413]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.40:309][413]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.40:367][414]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.40:368][414]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.40:440][415]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.40:440][415]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.40:493][416]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.40:493][416]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.40:566][417]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.40:566][417]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.40:635][418]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.40:636][418]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.40:697][419]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.40:697][419]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.40:764][420]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.40:764][420]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.40:826][421]LogScript: Warning: Attempted to access missing property 'MovementStatus'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	MainAnime_BP_C /Game/Maps/UEDPIE_0_SunTemple.SunTemple:PersistentLevel.Main_BP_C_0.CharacterMesh0.MainAnime_BP_C_0
+	Function /Game/Character/Animation/MainAnime_BP.MainAnime_BP_C:ExecuteUbergraph_MainAnime_BP:02C8
+[2020.03.14-12.05.40:826][421]LogScript: Warning: Attempted to access missing property 'EquipedWeapon'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	MainAnime_BP_C /Game/Maps/UEDPIE_0_SunTemple.SunTemple:PersistentLevel.Main_BP_C_0.CharacterMesh0.MainAnime_BP_C_0
+	Function /Game/Character/Animation/MainAnime_BP.MainAnime_BP_C:ExecuteUbergraph_MainAnime_BP:0254
+[2020.03.14-12.05.40:826][421]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.40:827][421]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.40:891][422]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.40:892][422]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.40:960][423]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.40:961][423]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.41:007][424]LogTemp: Warning: Super::Overlap begin.
+[2020.03.14-12.05.41:022][424]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.41:023][424]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.41:085][425]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.41:085][425]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.41:149][426]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.41:150][426]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.41:218][427]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.41:218][427]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.41:280][428]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.41:280][428]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.41:342][429]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.41:343][429]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.41:414][430]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.41:414][430]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.41:468][431]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.41:469][431]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.41:541][432]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.41:542][432]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.41:606][433]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.41:607][433]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.41:667][434]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.41:667][434]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.41:718][435]LogTemp: Warning: Super::Overlap begin.
+[2020.03.14-12.05.41:720][435]LogTemp: Warning: Super::Overlap begin.
+[2020.03.14-12.05.41:737][435]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.41:738][435]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.41:803][436]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.41:803][436]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.41:875][437]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.41:876][437]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.41:934][438]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.41:934][438]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.41:993][439]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.41:994][439]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.42:055][440]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.42:055][440]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.42:121][441]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.42:121][441]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.42:188][442]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.42:189][442]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.42:252][443]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.42:252][443]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.42:310][444]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.42:311][444]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.42:382][445]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.42:383][445]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.42:446][446]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.42:446][446]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.42:518][447]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.42:518][447]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.42:576][448]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.42:576][448]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.42:644][449]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.42:644][449]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.42:703][450]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.42:703][450]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.42:772][451]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.42:772][451]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.42:830][452]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.42:830][452]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.42:899][453]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.42:900][453]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.42:971][454]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.42:971][454]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.43:037][455]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.43:037][455]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.43:097][456]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.43:097][456]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
+[2020.03.14-12.05.43:143][457]LogTemp: Warning: Super::Overlap End.
+[2020.03.14-12.05.43:153][457]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/HealthBar.HealthBar_C:GetPercent
+
+[2020.03.14-12.05.43:153][457]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/HUD/StaminaBar.StaminaBar_C:GetStamina
+
